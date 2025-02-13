@@ -1,0 +1,1596 @@
+User_ID,Age,Region,Date,Category,Amount,Transaction Type,Account Name,Description
+1,32,urban,2020-01-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-01-13,Shopping,242.13,debit,Credit Card,Target
+1,32,urban,2020-01-13,Bills,138.99,debit,Credit Card,Verizon
+1,32,urban,2020-01-13,Restaurants,216.75,debit,Credit Card,Subway
+1,32,urban,2020-01-13,Travel,857.12,debit,Credit Card,Delta Airlines
+1,32,urban,2020-01-16,Shopping,105.69,debit,Credit Card,Amazon
+1,32,urban,2020-01-16,Travel,804.1,debit,Credit Card,Lyft
+1,32,urban,2020-01-16,Healthcare,469.41,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-01-16,Rent/Mortgage,1932.55,debit,Credit Card,Landlord Payment
+1,32,urban,2020-01-26,Shopping,218.53,debit,Credit Card,Target
+1,32,urban,2020-01-26,Bills,160.34,debit,Credit Card,National Grid
+1,32,urban,2020-01-26,Restaurants,145.55,debit,Credit Card,Chipotle
+1,32,urban,2020-01-26,Travel,597.94,debit,Credit Card,Uber
+1,32,urban,2020-02-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-02-07,Shopping,240.21,debit,Credit Card,Best Buy
+1,32,urban,2020-02-07,Bills,473.14,debit,Credit Card,National Grid
+1,32,urban,2020-02-07,Restaurants,135.99,debit,Credit Card,McDonald's
+1,32,urban,2020-02-07,Travel,454.97,debit,Credit Card,Uber
+1,32,urban,2020-02-07,Healthcare,52.13,debit,Credit Card,Health Insurance
+1,32,urban,2020-02-07,Rent/Mortgage,1682.56,debit,Credit Card,Mortgage Company
+1,32,urban,2020-02-09,Entertainment,118.75,debit,Credit Card,Spotify
+1,32,urban,2020-02-09,Bills,441.23,debit,Credit Card,Eversource
+1,32,urban,2020-02-09,Healthcare,347.89,debit,Credit Card,Walgreens
+1,32,urban,2020-02-10,Bills,336.08,debit,Credit Card,Comcast
+1,32,urban,2020-02-10,Restaurants,202.39,debit,Credit Card,Subway
+1,32,urban,2020-02-10,Healthcare,145.41,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-02-11,Bills,120.3,debit,Credit Card,Comcast
+1,32,urban,2020-02-11,Restaurants,217.46,debit,Credit Card,Starbucks
+1,32,urban,2020-02-11,Travel,703.72,debit,Credit Card,Uber
+1,32,urban,2020-02-11,Healthcare,313.22,debit,Credit Card,Urgent Care
+1,32,urban,2020-02-13,Shopping,208.25,debit,Credit Card,Walmart
+1,32,urban,2020-02-13,Entertainment,128.86,debit,Credit Card,Netflix
+1,32,urban,2020-02-13,Travel,184.89,debit,Credit Card,Lyft
+1,32,urban,2020-02-13,Healthcare,487.32,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-02-16,Shopping,465.18,debit,Credit Card,Target
+1,32,urban,2020-02-16,Bills,460.68,debit,Credit Card,Comcast
+1,32,urban,2020-02-17,Shopping,375.8,debit,Credit Card,Walmart
+1,32,urban,2020-02-17,Bills,118.6,debit,Credit Card,Verizon
+1,32,urban,2020-02-17,Restaurants,50.42,debit,Credit Card,Chipotle
+1,32,urban,2020-02-17,Travel,644.13,debit,Credit Card,Delta Airlines
+1,32,urban,2020-02-17,Healthcare,364.93,debit,Credit Card,Urgent Care
+1,32,urban,2020-02-24,Entertainment,41.35,debit,Credit Card,Spotify
+1,32,urban,2020-02-24,Bills,242.81,debit,Credit Card,Comcast
+1,32,urban,2020-02-24,Restaurants,149.55,debit,Credit Card,Starbucks
+1,32,urban,2020-02-24,Travel,809.45,debit,Credit Card,Lyft
+1,32,urban,2020-02-26,Shopping,191.73,debit,Credit Card,Target
+1,32,urban,2020-02-26,Entertainment,151.68,debit,Credit Card,Netflix
+1,32,urban,2020-02-26,Bills,467.58,debit,Credit Card,Verizon
+1,32,urban,2020-02-26,Travel,649.31,debit,Credit Card,Lyft
+1,32,urban,2020-02-27,Shopping,347.47,debit,Credit Card,Walmart
+1,32,urban,2020-02-27,Entertainment,191.63,debit,Credit Card,Netflix
+1,32,urban,2020-02-27,Restaurants,215.6,debit,Credit Card,McDonald's
+1,32,urban,2020-02-27,Travel,108.53,debit,Credit Card,Uber
+1,32,urban,2020-03-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-03-12,Shopping,122.26,debit,Credit Card,Target
+1,32,urban,2020-03-12,Entertainment,127.73,debit,Credit Card,AMC Theatres
+1,32,urban,2020-03-12,Restaurants,176.12,debit,Credit Card,Starbucks
+1,32,urban,2020-03-12,Travel,781.09,debit,Credit Card,Uber
+1,32,urban,2020-03-14,Shopping,457.7,debit,Credit Card,Walmart
+1,32,urban,2020-03-14,Bills,307.92,debit,Credit Card,Verizon
+1,32,urban,2020-03-14,Travel,895.52,debit,Credit Card,Delta Airlines
+1,32,urban,2020-03-15,Shopping,110.76,debit,Credit Card,Walmart
+1,32,urban,2020-03-15,Entertainment,170.91,debit,Credit Card,Netflix
+1,32,urban,2020-03-15,Bills,334.46,debit,Credit Card,Eversource
+1,32,urban,2020-03-15,Healthcare,391.4,debit,Credit Card,Health Insurance
+1,32,urban,2020-03-15,Rent/Mortgage,901.44,debit,Credit Card,Mortgage Company
+1,32,urban,2020-03-16,Travel,164.8,debit,Credit Card,Hilton Hotels
+1,32,urban,2020-03-20,Shopping,499.16,debit,Credit Card,Target
+1,32,urban,2020-03-20,Entertainment,124.36,debit,Credit Card,Netflix
+1,32,urban,2020-03-20,Restaurants,210.48,debit,Credit Card,McDonald's
+1,32,urban,2020-03-27,Entertainment,43.88,debit,Credit Card,Netflix
+1,32,urban,2020-03-27,Bills,453.67,debit,Credit Card,National Grid
+1,32,urban,2020-03-27,Restaurants,90.44,debit,Credit Card,Subway
+1,32,urban,2020-03-27,Travel,702.6,debit,Credit Card,Hilton Hotels
+1,32,urban,2020-03-27,Healthcare,395.37,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-04-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-04-06,Shopping,324.27,debit,Credit Card,Walmart
+1,32,urban,2020-04-06,Bills,430.03,debit,Credit Card,National Grid
+1,32,urban,2020-04-06,Restaurants,108.85,debit,Credit Card,Subway
+1,32,urban,2020-04-06,Travel,799.76,debit,Credit Card,Uber
+1,32,urban,2020-04-06,Rent/Mortgage,1428.68,debit,Credit Card,Landlord Payment
+1,32,urban,2020-04-10,Shopping,104.51,debit,Credit Card,Target
+1,32,urban,2020-04-10,Bills,381.18,debit,Credit Card,Comcast
+1,32,urban,2020-04-14,Shopping,71.57,debit,Credit Card,Best Buy
+1,32,urban,2020-04-14,Entertainment,153.79,debit,Credit Card,Netflix
+1,32,urban,2020-04-14,Restaurants,50.54,debit,Credit Card,Starbucks
+1,32,urban,2020-04-14,Travel,526.75,debit,Credit Card,Uber
+1,32,urban,2020-04-14,Healthcare,124.6,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-04-16,Entertainment,94.97,debit,Credit Card,Spotify
+1,32,urban,2020-04-16,Restaurants,83.69,debit,Credit Card,Starbucks
+1,32,urban,2020-04-19,Shopping,188.02,debit,Credit Card,Amazon
+1,32,urban,2020-04-19,Entertainment,151.58,debit,Credit Card,Netflix
+1,32,urban,2020-04-19,Bills,478.79,debit,Credit Card,Eversource
+1,32,urban,2020-04-19,Restaurants,132.25,debit,Credit Card,Chipotle
+1,32,urban,2020-04-19,Travel,156.65,debit,Credit Card,Hilton Hotels
+1,32,urban,2020-04-19,Healthcare,367.69,debit,Credit Card,Urgent Care
+1,32,urban,2020-04-24,Shopping,272.8,debit,Credit Card,Target
+1,32,urban,2020-04-24,Restaurants,222.86,debit,Credit Card,Chipotle
+1,32,urban,2020-05-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-05-07,Bills,225.55,debit,Credit Card,National Grid
+1,32,urban,2020-05-07,Restaurants,211.59,debit,Credit Card,McDonald's
+1,32,urban,2020-05-07,Healthcare,252.04,debit,Credit Card,Walgreens
+1,32,urban,2020-05-07,Rent/Mortgage,1588.97,debit,Credit Card,Mortgage Company
+1,32,urban,2020-05-08,Entertainment,153.85,debit,Credit Card,Spotify
+1,32,urban,2020-05-08,Bills,405.82,debit,Credit Card,National Grid
+1,32,urban,2020-05-08,Travel,592.05,debit,Credit Card,Uber
+1,32,urban,2020-05-08,Healthcare,138.52,debit,Credit Card,Walgreens
+1,32,urban,2020-05-09,Shopping,296.2,debit,Credit Card,Walmart
+1,32,urban,2020-05-09,Entertainment,26.32,debit,Credit Card,AMC Theatres
+1,32,urban,2020-05-09,Bills,400.75,debit,Credit Card,Verizon
+1,32,urban,2020-05-12,Entertainment,63.29,debit,Credit Card,AMC Theatres
+1,32,urban,2020-05-12,Bills,187.05,debit,Credit Card,National Grid
+1,32,urban,2020-05-12,Restaurants,87.75,debit,Credit Card,Chipotle
+1,32,urban,2020-05-12,Healthcare,229.87,debit,Credit Card,Urgent Care
+1,32,urban,2020-05-13,Entertainment,46.72,debit,Credit Card,Spotify
+1,32,urban,2020-05-13,Bills,481.01,debit,Credit Card,National Grid
+1,32,urban,2020-05-13,Travel,401.37,debit,Credit Card,Delta Airlines
+1,32,urban,2020-05-14,Shopping,487.17,debit,Credit Card,Amazon
+1,32,urban,2020-05-14,Travel,778.52,debit,Credit Card,Lyft
+1,32,urban,2020-05-14,Healthcare,108.14,debit,Credit Card,Walgreens
+1,32,urban,2020-05-15,Bills,294.41,debit,Credit Card,Comcast
+1,32,urban,2020-05-15,Restaurants,105.17,debit,Credit Card,Subway
+1,32,urban,2020-05-15,Travel,310.0,debit,Credit Card,Lyft
+1,32,urban,2020-05-15,Healthcare,199.98,debit,Credit Card,Health Insurance
+1,32,urban,2020-05-16,Shopping,347.63,debit,Credit Card,Amazon
+1,32,urban,2020-05-16,Bills,192.18,debit,Credit Card,Verizon
+1,32,urban,2020-05-16,Restaurants,185.96,debit,Credit Card,McDonald's
+1,32,urban,2020-05-16,Travel,263.7,debit,Credit Card,Hilton Hotels
+1,32,urban,2020-05-22,Healthcare,427.96,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-05-26,Shopping,292.18,debit,Credit Card,Best Buy
+1,32,urban,2020-05-26,Entertainment,65.44,debit,Credit Card,Disney+
+1,32,urban,2020-05-26,Restaurants,91.25,debit,Credit Card,Chipotle
+1,32,urban,2020-05-26,Travel,662.9,debit,Credit Card,Uber
+1,32,urban,2020-06-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-06-07,Entertainment,93.27,debit,Credit Card,Spotify
+1,32,urban,2020-06-07,Bills,201.58,debit,Credit Card,Eversource
+1,32,urban,2020-06-07,Restaurants,76.45,debit,Credit Card,Starbucks
+1,32,urban,2020-06-07,Healthcare,439.05,debit,Credit Card,Walgreens
+1,32,urban,2020-06-07,Rent/Mortgage,2342.19,debit,Credit Card,Landlord Payment
+1,32,urban,2020-06-08,Shopping,346.2,debit,Credit Card,Amazon
+1,32,urban,2020-06-08,Entertainment,84.89,debit,Credit Card,Netflix
+1,32,urban,2020-06-08,Bills,218.83,debit,Credit Card,National Grid
+1,32,urban,2020-06-08,Travel,204.96,debit,Credit Card,Lyft
+1,32,urban,2020-06-08,Healthcare,149.34,debit,Credit Card,Urgent Care
+1,32,urban,2020-06-10,Shopping,248.85,debit,Credit Card,Target
+1,32,urban,2020-06-10,Entertainment,175.47,debit,Credit Card,Disney+
+1,32,urban,2020-06-10,Bills,195.14,debit,Credit Card,Verizon
+1,32,urban,2020-06-10,Travel,348.34,debit,Credit Card,Lyft
+1,32,urban,2020-06-10,Healthcare,401.25,debit,Credit Card,Walgreens
+1,32,urban,2020-06-13,Entertainment,174.41,debit,Credit Card,AMC Theatres
+1,32,urban,2020-06-13,Bills,348.63,debit,Credit Card,Eversource
+1,32,urban,2020-06-13,Travel,579.31,debit,Credit Card,Delta Airlines
+1,32,urban,2020-06-13,Healthcare,438.48,debit,Credit Card,Urgent Care
+1,32,urban,2020-06-16,Shopping,128.11,debit,Credit Card,Target
+1,32,urban,2020-06-16,Entertainment,59.92,debit,Credit Card,AMC Theatres
+1,32,urban,2020-06-16,Travel,667.1,debit,Credit Card,Lyft
+1,32,urban,2020-06-19,Shopping,94.86,debit,Credit Card,Walmart
+1,32,urban,2020-06-19,Entertainment,20.77,debit,Credit Card,Disney+
+1,32,urban,2020-06-19,Bills,308.69,debit,Credit Card,Verizon
+1,32,urban,2020-06-19,Travel,397.44,debit,Credit Card,Delta Airlines
+1,32,urban,2020-06-19,Healthcare,268.65,debit,Credit Card,Urgent Care
+1,32,urban,2020-06-22,Shopping,483.56,debit,Credit Card,Target
+1,32,urban,2020-06-22,Entertainment,185.47,debit,Credit Card,Spotify
+1,32,urban,2020-06-22,Restaurants,81.23,debit,Credit Card,Subway
+1,32,urban,2020-06-22,Travel,391.97,debit,Credit Card,Delta Airlines
+1,32,urban,2020-06-22,Healthcare,112.42,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-06-23,Entertainment,157.83,debit,Credit Card,Disney+
+1,32,urban,2020-06-23,Bills,424.23,debit,Credit Card,Eversource
+1,32,urban,2020-06-23,Restaurants,65.74,debit,Credit Card,Chipotle
+1,32,urban,2020-06-24,Shopping,419.17,debit,Credit Card,Walmart
+1,32,urban,2020-06-24,Entertainment,23.05,debit,Credit Card,Disney+
+1,32,urban,2020-06-27,Shopping,451.82,debit,Credit Card,Best Buy
+1,32,urban,2020-06-27,Entertainment,138.62,debit,Credit Card,AMC Theatres
+1,32,urban,2020-06-27,Healthcare,109.43,debit,Credit Card,Urgent Care
+1,32,urban,2020-07-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-07-18,Shopping,235.91,debit,Credit Card,Amazon
+1,32,urban,2020-07-18,Entertainment,199.51,debit,Credit Card,Netflix
+1,32,urban,2020-07-18,Bills,173.18,debit,Credit Card,Verizon
+1,32,urban,2020-07-18,Restaurants,240.37,debit,Credit Card,Subway
+1,32,urban,2020-07-18,Travel,299.48,debit,Credit Card,Uber
+1,32,urban,2020-07-18,Healthcare,356.45,debit,Credit Card,Health Insurance
+1,32,urban,2020-07-24,Entertainment,47.33,debit,Credit Card,AMC Theatres
+1,32,urban,2020-07-24,Bills,226.68,debit,Credit Card,National Grid
+1,32,urban,2020-07-24,Restaurants,152.83,debit,Credit Card,Starbucks
+1,32,urban,2020-07-24,Healthcare,379.93,debit,Credit Card,Walgreens
+1,32,urban,2020-07-27,Bills,207.82,debit,Credit Card,National Grid
+1,32,urban,2020-07-27,Travel,640.75,debit,Credit Card,Hilton Hotels
+1,32,urban,2020-07-27,Healthcare,287.6,debit,Credit Card,Urgent Care
+1,32,urban,2020-08-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-08-07,Shopping,103.95,debit,Credit Card,Amazon
+1,32,urban,2020-08-07,Restaurants,100.56,debit,Credit Card,Starbucks
+1,32,urban,2020-08-07,Healthcare,154.91,debit,Credit Card,Urgent Care
+1,32,urban,2020-08-07,Rent/Mortgage,817.31,debit,Credit Card,Mortgage Company
+1,32,urban,2020-08-10,Travel,476.63,debit,Credit Card,Lyft
+1,32,urban,2020-08-10,Healthcare,431.86,debit,Credit Card,Health Insurance
+1,32,urban,2020-08-11,Shopping,353.42,debit,Credit Card,Walmart
+1,32,urban,2020-08-11,Bills,482.67,debit,Credit Card,National Grid
+1,32,urban,2020-08-11,Restaurants,247.07,debit,Credit Card,McDonald's
+1,32,urban,2020-08-11,Travel,651.02,debit,Credit Card,Delta Airlines
+1,32,urban,2020-08-11,Healthcare,226.85,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-08-13,Healthcare,430.85,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-08-14,Shopping,326.37,debit,Credit Card,Amazon
+1,32,urban,2020-08-14,Restaurants,102.26,debit,Credit Card,Starbucks
+1,32,urban,2020-08-15,Entertainment,26.7,debit,Credit Card,AMC Theatres
+1,32,urban,2020-08-15,Bills,210.99,debit,Credit Card,Eversource
+1,32,urban,2020-08-15,Restaurants,237.94,debit,Credit Card,Chipotle
+1,32,urban,2020-08-15,Healthcare,384.13,debit,Credit Card,Walgreens
+1,32,urban,2020-08-16,Shopping,430.11,debit,Credit Card,Target
+1,32,urban,2020-08-16,Entertainment,34.09,debit,Credit Card,Spotify
+1,32,urban,2020-08-16,Healthcare,336.18,debit,Credit Card,Health Insurance
+1,32,urban,2020-08-18,Shopping,159.69,debit,Credit Card,Target
+1,32,urban,2020-08-18,Bills,393.24,debit,Credit Card,Comcast
+1,32,urban,2020-08-18,Healthcare,246.64,debit,Credit Card,Health Insurance
+1,32,urban,2020-08-21,Entertainment,197.37,debit,Credit Card,Netflix
+1,32,urban,2020-08-21,Bills,220.77,debit,Credit Card,Verizon
+1,32,urban,2020-08-21,Travel,963.19,debit,Credit Card,Uber
+1,32,urban,2020-08-21,Healthcare,362.91,debit,Credit Card,Health Insurance
+1,32,urban,2020-08-24,Shopping,70.84,debit,Credit Card,Amazon
+1,32,urban,2020-08-24,Entertainment,142.09,debit,Credit Card,Spotify
+1,32,urban,2020-08-24,Restaurants,203.92,debit,Credit Card,Subway
+1,32,urban,2020-08-24,Travel,619.54,debit,Credit Card,Lyft
+1,32,urban,2020-09-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-09-07,Shopping,487.03,debit,Credit Card,Amazon
+1,32,urban,2020-09-07,Entertainment,132.08,debit,Credit Card,Spotify
+1,32,urban,2020-09-07,Restaurants,114.52,debit,Credit Card,Subway
+1,32,urban,2020-09-07,Healthcare,111.33,debit,Credit Card,Health Insurance
+1,32,urban,2020-09-15,Shopping,280.74,debit,Credit Card,Target
+1,32,urban,2020-09-15,Entertainment,93.97,debit,Credit Card,Disney+
+1,32,urban,2020-09-15,Restaurants,198.2,debit,Credit Card,McDonald's
+1,32,urban,2020-09-15,Travel,350.69,debit,Credit Card,Uber
+1,32,urban,2020-09-15,Healthcare,389.0,debit,Credit Card,Walgreens
+1,32,urban,2020-09-24,Shopping,342.13,debit,Credit Card,Target
+1,32,urban,2020-09-24,Entertainment,142.37,debit,Credit Card,Netflix
+1,32,urban,2020-09-24,Restaurants,140.98,debit,Credit Card,McDonald's
+1,32,urban,2020-09-24,Rent/Mortgage,1044.47,debit,Credit Card,Landlord Payment
+1,32,urban,2020-09-25,Shopping,401.83,debit,Credit Card,Amazon
+1,32,urban,2020-09-25,Entertainment,142.07,debit,Credit Card,Disney+
+1,32,urban,2020-09-25,Bills,420.07,debit,Credit Card,Comcast
+1,32,urban,2020-09-25,Restaurants,161.72,debit,Credit Card,McDonald's
+1,32,urban,2020-09-25,Travel,470.61,debit,Credit Card,Delta Airlines
+1,32,urban,2020-10-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-10-08,Entertainment,73.47,debit,Credit Card,Netflix
+1,32,urban,2020-10-08,Restaurants,150.94,debit,Credit Card,Subway
+1,32,urban,2020-10-08,Healthcare,321.08,debit,Credit Card,Urgent Care
+1,32,urban,2020-10-08,Rent/Mortgage,1338.34,debit,Credit Card,Landlord Payment
+1,32,urban,2020-10-23,Shopping,463.68,debit,Credit Card,Best Buy
+1,32,urban,2020-10-23,Entertainment,193.21,debit,Credit Card,Netflix
+1,32,urban,2020-10-23,Restaurants,170.54,debit,Credit Card,Subway
+1,32,urban,2020-10-24,Shopping,309.59,debit,Credit Card,Amazon
+1,32,urban,2020-10-24,Entertainment,52.27,debit,Credit Card,AMC Theatres
+1,32,urban,2020-10-24,Bills,309.21,debit,Credit Card,Eversource
+1,32,urban,2020-10-24,Travel,331.42,debit,Credit Card,Lyft
+1,32,urban,2020-11-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-11-06,Shopping,477.8,debit,Credit Card,Target
+1,32,urban,2020-11-06,Entertainment,150.84,debit,Credit Card,AMC Theatres
+1,32,urban,2020-11-06,Travel,601.4,debit,Credit Card,Delta Airlines
+1,32,urban,2020-11-06,Healthcare,344.72,debit,Credit Card,CVS Pharmacy
+1,32,urban,2020-11-06,Rent/Mortgage,1622.03,debit,Credit Card,Landlord Payment
+1,32,urban,2020-11-07,Shopping,308.58,debit,Credit Card,Amazon
+1,32,urban,2020-11-07,Entertainment,23.33,debit,Credit Card,Spotify
+1,32,urban,2020-11-07,Bills,280.37,debit,Credit Card,National Grid
+1,32,urban,2020-11-07,Restaurants,131.55,debit,Credit Card,Starbucks
+1,32,urban,2020-11-07,Travel,713.36,debit,Credit Card,Hilton Hotels
+1,32,urban,2020-11-07,Healthcare,229.01,debit,Credit Card,Urgent Care
+1,32,urban,2020-11-20,Shopping,391.02,debit,Credit Card,Amazon
+1,32,urban,2020-11-20,Bills,197.23,debit,Credit Card,Verizon
+1,32,urban,2020-11-20,Travel,752.31,debit,Credit Card,Lyft
+1,32,urban,2020-11-23,Shopping,54.02,debit,Credit Card,Best Buy
+1,32,urban,2020-11-23,Entertainment,58.02,debit,Credit Card,Spotify
+1,32,urban,2020-11-23,Bills,193.11,debit,Credit Card,Verizon
+1,32,urban,2020-11-23,Restaurants,122.28,debit,Credit Card,McDonald's
+1,32,urban,2020-11-23,Travel,379.23,debit,Credit Card,Hilton Hotels
+1,32,urban,2020-11-23,Healthcare,315.21,debit,Credit Card,Health Insurance
+1,32,urban,2020-11-26,Restaurants,221.65,debit,Credit Card,McDonald's
+1,32,urban,2020-11-26,Travel,622.31,debit,Credit Card,Uber
+1,32,urban,2020-12-05,Salary,5188.0,credit,Savings,Employer Direct Deposit
+1,32,urban,2020-12-06,Entertainment,58.78,debit,Credit Card,AMC Theatres
+1,32,urban,2020-12-06,Bills,381.95,debit,Credit Card,Comcast
+1,32,urban,2020-12-06,Restaurants,89.99,debit,Credit Card,Chipotle
+1,32,urban,2020-12-06,Travel,711.45,debit,Credit Card,Uber
+1,32,urban,2020-12-06,Healthcare,389.14,debit,Credit Card,Health Insurance
+1,32,urban,2020-12-07,Entertainment,60.4,debit,Credit Card,Spotify
+1,32,urban,2020-12-07,Bills,172.75,debit,Credit Card,National Grid
+1,32,urban,2020-12-07,Restaurants,77.37,debit,Credit Card,McDonald's
+1,32,urban,2020-12-07,Travel,405.76,debit,Credit Card,Uber
+1,32,urban,2020-12-07,Rent/Mortgage,1795.31,debit,Credit Card,Mortgage Company
+1,32,urban,2020-12-11,Entertainment,54.24,debit,Credit Card,AMC Theatres
+1,32,urban,2020-12-11,Bills,214.3,debit,Credit Card,Verizon
+1,32,urban,2020-12-11,Restaurants,217.29,debit,Credit Card,Starbucks
+1,32,urban,2020-12-11,Healthcare,356.36,debit,Credit Card,Urgent Care
+1,32,urban,2020-12-14,Shopping,176.67,debit,Credit Card,Target
+1,32,urban,2020-12-14,Healthcare,79.17,debit,Credit Card,Health Insurance
+1,32,urban,2020-12-15,Shopping,478.01,debit,Credit Card,Target
+1,32,urban,2020-12-15,Bills,188.7,debit,Credit Card,Eversource
+1,32,urban,2020-12-15,Healthcare,153.17,debit,Credit Card,Urgent Care
+1,32,urban,2020-12-16,Entertainment,147.5,debit,Credit Card,Disney+
+1,32,urban,2020-12-16,Bills,102.87,debit,Credit Card,Eversource
+1,32,urban,2020-12-17,Restaurants,136.93,debit,Credit Card,Subway
+1,32,urban,2020-12-17,Travel,361.89,debit,Credit Card,Delta Airlines
+1,32,urban,2020-12-18,Entertainment,120.43,debit,Credit Card,AMC Theatres
+1,32,urban,2020-12-18,Bills,370.13,debit,Credit Card,Verizon
+1,32,urban,2020-12-18,Restaurants,134.34,debit,Credit Card,McDonald's
+1,32,urban,2020-12-22,Shopping,301.86,debit,Credit Card,Walmart
+1,32,urban,2020-12-22,Entertainment,63.98,debit,Credit Card,Spotify
+1,32,urban,2020-12-22,Bills,122.55,debit,Credit Card,Comcast
+1,32,urban,2020-12-22,Restaurants,229.53,debit,Credit Card,Subway
+1,32,urban,2020-12-22,Healthcare,311.01,debit,Credit Card,Urgent Care
+1,32,urban,2021-01-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-01-06,Shopping,388.15,debit,Credit Card,Amazon
+1,32,urban,2021-01-06,Entertainment,22.27,debit,Credit Card,Spotify
+1,32,urban,2021-01-06,Healthcare,210.88,debit,Credit Card,Walgreens
+1,32,urban,2021-01-09,Shopping,300.73,debit,Credit Card,Best Buy
+1,32,urban,2021-01-09,Entertainment,170.79,debit,Credit Card,Spotify
+1,32,urban,2021-01-09,Bills,220.04,debit,Credit Card,National Grid
+1,32,urban,2021-01-09,Restaurants,145.55,debit,Credit Card,Subway
+1,32,urban,2021-01-09,Travel,137.85,debit,Credit Card,Lyft
+1,32,urban,2021-01-09,Healthcare,463.3,debit,Credit Card,CVS Pharmacy
+1,32,urban,2021-01-11,Shopping,124.87,debit,Credit Card,Amazon
+1,32,urban,2021-01-11,Bills,146.56,debit,Credit Card,National Grid
+1,32,urban,2021-01-11,Restaurants,181.79,debit,Credit Card,Starbucks
+1,32,urban,2021-01-11,Travel,274.61,debit,Credit Card,Uber
+1,32,urban,2021-01-11,Rent/Mortgage,933.64,debit,Credit Card,Mortgage Company
+1,32,urban,2021-01-14,Shopping,211.47,debit,Credit Card,Walmart
+1,32,urban,2021-01-14,Entertainment,59.83,debit,Credit Card,Disney+
+1,32,urban,2021-01-14,Healthcare,241.48,debit,Credit Card,Walgreens
+1,32,urban,2021-01-20,Shopping,239.78,debit,Credit Card,Best Buy
+1,32,urban,2021-01-20,Entertainment,186.29,debit,Credit Card,Disney+
+1,32,urban,2021-01-20,Restaurants,54.41,debit,Credit Card,Chipotle
+1,32,urban,2021-01-20,Travel,234.06,debit,Credit Card,Lyft
+1,32,urban,2021-01-20,Healthcare,337.4,debit,Credit Card,Urgent Care
+1,32,urban,2021-01-22,Shopping,352.05,debit,Credit Card,Amazon
+1,32,urban,2021-01-22,Entertainment,28.44,debit,Credit Card,Spotify
+1,32,urban,2021-01-22,Restaurants,58.38,debit,Credit Card,Starbucks
+1,32,urban,2021-01-24,Entertainment,139.89,debit,Credit Card,AMC Theatres
+1,32,urban,2021-01-24,Bills,309.47,debit,Credit Card,Eversource
+1,32,urban,2021-01-24,Travel,274.15,debit,Credit Card,Lyft
+1,32,urban,2021-01-24,Healthcare,215.09,debit,Credit Card,Health Insurance
+1,32,urban,2021-02-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-02-07,Shopping,83.95,debit,Credit Card,Walmart
+1,32,urban,2021-02-07,Bills,207.69,debit,Credit Card,Verizon
+1,32,urban,2021-02-07,Restaurants,101.41,debit,Credit Card,Subway
+1,32,urban,2021-02-07,Travel,525.88,debit,Credit Card,Uber
+1,32,urban,2021-02-07,Healthcare,264.21,debit,Credit Card,Walgreens
+1,32,urban,2021-02-07,Rent/Mortgage,819.87,debit,Credit Card,Landlord Payment
+1,32,urban,2021-02-09,Entertainment,188.21,debit,Credit Card,Spotify
+1,32,urban,2021-02-09,Bills,186.83,debit,Credit Card,Eversource
+1,32,urban,2021-02-09,Restaurants,214.8,debit,Credit Card,McDonald's
+1,32,urban,2021-02-09,Travel,418.67,debit,Credit Card,Hilton Hotels
+1,32,urban,2021-02-12,Entertainment,133.62,debit,Credit Card,Disney+
+1,32,urban,2021-02-12,Bills,253.65,debit,Credit Card,Comcast
+1,32,urban,2021-02-12,Restaurants,198.91,debit,Credit Card,Chipotle
+1,32,urban,2021-02-12,Healthcare,237.05,debit,Credit Card,Walgreens
+1,32,urban,2021-02-18,Shopping,317.64,debit,Credit Card,Target
+1,32,urban,2021-02-18,Entertainment,104.09,debit,Credit Card,Netflix
+1,32,urban,2021-02-18,Bills,428.8,debit,Credit Card,Verizon
+1,32,urban,2021-02-18,Healthcare,484.31,debit,Credit Card,Health Insurance
+1,32,urban,2021-02-21,Entertainment,152.45,debit,Credit Card,Netflix
+1,32,urban,2021-02-21,Restaurants,124.57,debit,Credit Card,McDonald's
+1,32,urban,2021-02-21,Healthcare,396.34,debit,Credit Card,Urgent Care
+1,32,urban,2021-03-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-03-06,Shopping,155.61,debit,Credit Card,Target
+1,32,urban,2021-03-06,Entertainment,140.95,debit,Credit Card,Disney+
+1,32,urban,2021-03-06,Bills,282.43,debit,Credit Card,Comcast
+1,32,urban,2021-03-06,Travel,400.33,debit,Credit Card,Lyft
+1,32,urban,2021-03-06,Healthcare,341.06,debit,Credit Card,Urgent Care
+1,32,urban,2021-03-06,Rent/Mortgage,1578.44,debit,Credit Card,Mortgage Company
+1,32,urban,2021-03-08,Entertainment,46.23,debit,Credit Card,Spotify
+1,32,urban,2021-03-08,Restaurants,88.57,debit,Credit Card,Subway
+1,32,urban,2021-03-08,Travel,176.51,debit,Credit Card,Lyft
+1,32,urban,2021-03-08,Healthcare,230.48,debit,Credit Card,Health Insurance
+1,32,urban,2021-03-14,Shopping,97.84,debit,Credit Card,Walmart
+1,32,urban,2021-03-14,Bills,313.19,debit,Credit Card,Verizon
+1,32,urban,2021-03-14,Healthcare,426.43,debit,Credit Card,Urgent Care
+1,32,urban,2021-03-22,Shopping,70.03,debit,Credit Card,Amazon
+1,32,urban,2021-03-22,Entertainment,35.4,debit,Credit Card,Spotify
+1,32,urban,2021-03-22,Bills,154.53,debit,Credit Card,Comcast
+1,32,urban,2021-03-22,Healthcare,141.83,debit,Credit Card,Walgreens
+1,32,urban,2021-03-23,Shopping,79.72,debit,Credit Card,Target
+1,32,urban,2021-03-23,Entertainment,125.2,debit,Credit Card,AMC Theatres
+1,32,urban,2021-03-23,Restaurants,146.58,debit,Credit Card,Starbucks
+1,32,urban,2021-03-23,Healthcare,163.36,debit,Credit Card,CVS Pharmacy
+1,32,urban,2021-03-24,Shopping,434.37,debit,Credit Card,Amazon
+1,32,urban,2021-03-24,Entertainment,93.16,debit,Credit Card,Disney+
+1,32,urban,2021-03-24,Restaurants,70.81,debit,Credit Card,Subway
+1,32,urban,2021-03-24,Travel,593.89,debit,Credit Card,Delta Airlines
+1,32,urban,2021-03-24,Healthcare,316.56,debit,Credit Card,Urgent Care
+1,32,urban,2021-04-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-04-07,Restaurants,199.81,debit,Credit Card,Chipotle
+1,32,urban,2021-04-07,Healthcare,85.36,debit,Credit Card,CVS Pharmacy
+1,32,urban,2021-04-09,Shopping,294.06,debit,Credit Card,Target
+1,32,urban,2021-04-09,Restaurants,52.7,debit,Credit Card,Chipotle
+1,32,urban,2021-04-10,Shopping,114.7,debit,Credit Card,Amazon
+1,32,urban,2021-04-10,Entertainment,31.59,debit,Credit Card,Netflix
+1,32,urban,2021-04-10,Bills,134.2,debit,Credit Card,Eversource
+1,32,urban,2021-04-12,Shopping,182.53,debit,Credit Card,Target
+1,32,urban,2021-04-12,Bills,268.48,debit,Credit Card,Verizon
+1,32,urban,2021-04-12,Restaurants,117.17,debit,Credit Card,Starbucks
+1,32,urban,2021-04-12,Travel,524.46,debit,Credit Card,Hilton Hotels
+1,32,urban,2021-04-12,Healthcare,322.76,debit,Credit Card,Walgreens
+1,32,urban,2021-04-12,Rent/Mortgage,2498.52,debit,Credit Card,Mortgage Company
+1,32,urban,2021-04-15,Shopping,84.67,debit,Credit Card,Walmart
+1,32,urban,2021-04-15,Restaurants,50.52,debit,Credit Card,Starbucks
+1,32,urban,2021-04-15,Travel,248.9,debit,Credit Card,Uber
+1,32,urban,2021-04-15,Healthcare,128.22,debit,Credit Card,CVS Pharmacy
+1,32,urban,2021-04-19,Entertainment,136.36,debit,Credit Card,AMC Theatres
+1,32,urban,2021-04-19,Bills,353.91,debit,Credit Card,Comcast
+1,32,urban,2021-04-19,Restaurants,210.56,debit,Credit Card,Subway
+1,32,urban,2021-04-24,Shopping,53.15,debit,Credit Card,Target
+1,32,urban,2021-04-24,Entertainment,80.52,debit,Credit Card,Disney+
+1,32,urban,2021-04-24,Restaurants,84.59,debit,Credit Card,Subway
+1,32,urban,2021-04-24,Travel,132.45,debit,Credit Card,Uber
+1,32,urban,2021-04-24,Healthcare,122.06,debit,Credit Card,Urgent Care
+1,32,urban,2021-05-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-05-06,Shopping,360.46,debit,Credit Card,Target
+1,32,urban,2021-05-06,Entertainment,128.5,debit,Credit Card,AMC Theatres
+1,32,urban,2021-05-06,Bills,110.1,debit,Credit Card,Comcast
+1,32,urban,2021-05-06,Travel,471.72,debit,Credit Card,Hilton Hotels
+1,32,urban,2021-05-06,Healthcare,248.58,debit,Credit Card,Urgent Care
+1,32,urban,2021-05-17,Shopping,441.02,debit,Credit Card,Best Buy
+1,32,urban,2021-05-17,Restaurants,190.3,debit,Credit Card,Starbucks
+1,32,urban,2021-05-17,Travel,630.36,debit,Credit Card,Uber
+1,32,urban,2021-05-19,Shopping,398.76,debit,Credit Card,Target
+1,32,urban,2021-05-19,Bills,452.33,debit,Credit Card,National Grid
+1,32,urban,2021-05-19,Restaurants,123.46,debit,Credit Card,Chipotle
+1,32,urban,2021-05-19,Healthcare,99.97,debit,Credit Card,CVS Pharmacy
+1,32,urban,2021-05-19,Rent/Mortgage,1984.25,debit,Credit Card,Mortgage Company
+1,32,urban,2021-06-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-06-18,Shopping,120.91,debit,Credit Card,Walmart
+1,32,urban,2021-06-18,Entertainment,150.33,debit,Credit Card,Netflix
+1,32,urban,2021-06-18,Restaurants,129.88,debit,Credit Card,McDonald's
+1,32,urban,2021-06-18,Travel,445.2,debit,Credit Card,Hilton Hotels
+1,32,urban,2021-06-18,Healthcare,90.59,debit,Credit Card,Health Insurance
+1,32,urban,2021-06-19,Shopping,71.27,debit,Credit Card,Best Buy
+1,32,urban,2021-06-19,Entertainment,114.97,debit,Credit Card,Spotify
+1,32,urban,2021-06-19,Travel,297.32,debit,Credit Card,Delta Airlines
+1,32,urban,2021-06-19,Healthcare,478.39,debit,Credit Card,Urgent Care
+1,32,urban,2021-06-19,Rent/Mortgage,1522.45,debit,Credit Card,Landlord Payment
+1,32,urban,2021-06-20,Entertainment,193.28,debit,Credit Card,Netflix
+1,32,urban,2021-06-20,Travel,485.55,debit,Credit Card,Uber
+1,32,urban,2021-06-20,Healthcare,409.59,debit,Credit Card,Urgent Care
+1,32,urban,2021-06-22,Shopping,460.66,debit,Credit Card,Best Buy
+1,32,urban,2021-06-22,Entertainment,128.71,debit,Credit Card,Netflix
+1,32,urban,2021-06-22,Restaurants,220.01,debit,Credit Card,McDonald's
+1,32,urban,2021-06-22,Travel,306.59,debit,Credit Card,Uber
+1,32,urban,2021-06-24,Shopping,81.28,debit,Credit Card,Best Buy
+1,32,urban,2021-06-24,Entertainment,140.97,debit,Credit Card,Netflix
+1,32,urban,2021-06-24,Bills,267.1,debit,Credit Card,National Grid
+1,32,urban,2021-06-24,Travel,290.39,debit,Credit Card,Lyft
+1,32,urban,2021-06-26,Shopping,230.07,debit,Credit Card,Walmart
+1,32,urban,2021-06-26,Entertainment,141.39,debit,Credit Card,AMC Theatres
+1,32,urban,2021-06-26,Bills,482.31,debit,Credit Card,Verizon
+1,32,urban,2021-06-26,Travel,251.99,debit,Credit Card,Uber
+1,32,urban,2021-07-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-07-07,Shopping,374.63,debit,Credit Card,Amazon
+1,32,urban,2021-07-07,Bills,154.9,debit,Credit Card,Comcast
+1,32,urban,2021-07-07,Restaurants,84.34,debit,Credit Card,McDonald's
+1,32,urban,2021-07-07,Rent/Mortgage,2463.54,debit,Credit Card,Landlord Payment
+1,32,urban,2021-07-08,Shopping,495.91,debit,Credit Card,Best Buy
+1,32,urban,2021-07-08,Entertainment,126.48,debit,Credit Card,Netflix
+1,32,urban,2021-07-08,Bills,411.05,debit,Credit Card,Verizon
+1,32,urban,2021-07-08,Restaurants,229.96,debit,Credit Card,Starbucks
+1,32,urban,2021-07-08,Travel,437.49,debit,Credit Card,Delta Airlines
+1,32,urban,2021-07-08,Healthcare,362.21,debit,Credit Card,CVS Pharmacy
+1,32,urban,2021-07-12,Shopping,240.75,debit,Credit Card,Amazon
+1,32,urban,2021-07-12,Bills,391.63,debit,Credit Card,Eversource
+1,32,urban,2021-07-15,Shopping,417.31,debit,Credit Card,Target
+1,32,urban,2021-07-15,Entertainment,131.35,debit,Credit Card,Disney+
+1,32,urban,2021-07-15,Bills,274.64,debit,Credit Card,Comcast
+1,32,urban,2021-07-15,Restaurants,208.97,debit,Credit Card,McDonald's
+1,32,urban,2021-07-18,Bills,384.77,debit,Credit Card,Verizon
+1,32,urban,2021-07-18,Restaurants,99.07,debit,Credit Card,Subway
+1,32,urban,2021-07-18,Travel,356.03,debit,Credit Card,Lyft
+1,32,urban,2021-07-18,Healthcare,268.01,debit,Credit Card,CVS Pharmacy
+1,32,urban,2021-07-21,Shopping,229.43,debit,Credit Card,Walmart
+1,32,urban,2021-07-21,Entertainment,169.8,debit,Credit Card,Spotify
+1,32,urban,2021-07-21,Bills,176.85,debit,Credit Card,Eversource
+1,32,urban,2021-07-21,Restaurants,66.78,debit,Credit Card,McDonald's
+1,32,urban,2021-07-21,Travel,623.21,debit,Credit Card,Uber
+1,32,urban,2021-07-22,Entertainment,99.66,debit,Credit Card,Disney+
+1,32,urban,2021-07-22,Bills,458.43,debit,Credit Card,Comcast
+1,32,urban,2021-07-22,Restaurants,191.86,debit,Credit Card,Chipotle
+1,32,urban,2021-07-22,Travel,609.18,debit,Credit Card,Uber
+1,32,urban,2021-07-22,Healthcare,365.32,debit,Credit Card,CVS Pharmacy
+1,32,urban,2021-07-27,Shopping,249.06,debit,Credit Card,Best Buy
+1,32,urban,2021-07-27,Restaurants,72.09,debit,Credit Card,Chipotle
+1,32,urban,2021-08-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-08-11,Shopping,293.08,debit,Credit Card,Amazon
+1,32,urban,2021-08-11,Entertainment,37.67,debit,Credit Card,AMC Theatres
+1,32,urban,2021-08-11,Bills,192.12,debit,Credit Card,Comcast
+1,32,urban,2021-08-11,Restaurants,178.31,debit,Credit Card,Subway
+1,32,urban,2021-08-11,Travel,922.16,debit,Credit Card,Lyft
+1,32,urban,2021-08-11,Rent/Mortgage,2232.85,debit,Credit Card,Mortgage Company
+1,32,urban,2021-08-14,Bills,403.32,debit,Credit Card,Eversource
+1,32,urban,2021-08-14,Travel,504.19,debit,Credit Card,Hilton Hotels
+1,32,urban,2021-08-14,Healthcare,193.3,debit,Credit Card,Walgreens
+1,32,urban,2021-08-15,Entertainment,184.94,debit,Credit Card,AMC Theatres
+1,32,urban,2021-08-15,Restaurants,238.49,debit,Credit Card,McDonald's
+1,32,urban,2021-08-15,Healthcare,459.4,debit,Credit Card,CVS Pharmacy
+1,32,urban,2021-08-19,Shopping,313.58,debit,Credit Card,Amazon
+1,32,urban,2021-08-26,Entertainment,179.4,debit,Credit Card,AMC Theatres
+1,32,urban,2021-08-26,Bills,282.86,debit,Credit Card,Eversource
+1,32,urban,2021-08-26,Restaurants,199.22,debit,Credit Card,Chipotle
+1,32,urban,2021-08-26,Travel,481.03,debit,Credit Card,Lyft
+1,32,urban,2021-08-26,Healthcare,185.94,debit,Credit Card,Walgreens
+1,32,urban,2021-09-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-09-10,Entertainment,149.07,debit,Credit Card,Disney+
+1,32,urban,2021-09-10,Restaurants,83.22,debit,Credit Card,Subway
+1,32,urban,2021-09-10,Travel,164.53,debit,Credit Card,Uber
+1,32,urban,2021-09-10,Healthcare,367.27,debit,Credit Card,Health Insurance
+1,32,urban,2021-09-11,Shopping,260.56,debit,Credit Card,Target
+1,32,urban,2021-09-11,Restaurants,197.06,debit,Credit Card,Subway
+1,32,urban,2021-09-11,Travel,886.33,debit,Credit Card,Hilton Hotels
+1,32,urban,2021-09-11,Rent/Mortgage,1449.15,debit,Credit Card,Landlord Payment
+1,32,urban,2021-09-18,Shopping,89.87,debit,Credit Card,Walmart
+1,32,urban,2021-09-18,Entertainment,35.88,debit,Credit Card,Spotify
+1,32,urban,2021-09-18,Travel,894.9,debit,Credit Card,Delta Airlines
+1,32,urban,2021-09-24,Restaurants,135.92,debit,Credit Card,Subway
+1,32,urban,2021-09-24,Healthcare,393.63,debit,Credit Card,Walgreens
+1,32,urban,2021-10-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-10-11,Entertainment,139.23,debit,Credit Card,Spotify
+1,32,urban,2021-10-11,Travel,254.63,debit,Credit Card,Delta Airlines
+1,32,urban,2021-10-11,Healthcare,296.98,debit,Credit Card,Walgreens
+1,32,urban,2021-10-11,Rent/Mortgage,1334.55,debit,Credit Card,Landlord Payment
+1,32,urban,2021-10-13,Shopping,391.48,debit,Credit Card,Amazon
+1,32,urban,2021-10-13,Bills,319.92,debit,Credit Card,Comcast
+1,32,urban,2021-10-13,Restaurants,218.4,debit,Credit Card,Starbucks
+1,32,urban,2021-10-13,Travel,710.77,debit,Credit Card,Lyft
+1,32,urban,2021-10-22,Travel,751.74,debit,Credit Card,Delta Airlines
+1,32,urban,2021-11-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-11-10,Shopping,214.43,debit,Credit Card,Walmart
+1,32,urban,2021-11-10,Bills,460.03,debit,Credit Card,National Grid
+1,32,urban,2021-11-10,Restaurants,201.83,debit,Credit Card,Chipotle
+1,32,urban,2021-11-10,Travel,731.34,debit,Credit Card,Uber
+1,32,urban,2021-11-10,Healthcare,275.61,debit,Credit Card,Walgreens
+1,32,urban,2021-11-11,Shopping,195.86,debit,Credit Card,Best Buy
+1,32,urban,2021-11-11,Entertainment,23.26,debit,Credit Card,Disney+
+1,32,urban,2021-11-11,Bills,184.79,debit,Credit Card,Eversource
+1,32,urban,2021-11-11,Restaurants,128.61,debit,Credit Card,Starbucks
+1,32,urban,2021-11-11,Travel,585.94,debit,Credit Card,Uber
+1,32,urban,2021-11-11,Rent/Mortgage,1167.77,debit,Credit Card,Mortgage Company
+1,32,urban,2021-11-12,Entertainment,103.13,debit,Credit Card,Spotify
+1,32,urban,2021-11-12,Bills,192.84,debit,Credit Card,Eversource
+1,32,urban,2021-11-12,Restaurants,129.14,debit,Credit Card,Subway
+1,32,urban,2021-11-12,Travel,914.63,debit,Credit Card,Lyft
+1,32,urban,2021-11-13,Bills,282.35,debit,Credit Card,Comcast
+1,32,urban,2021-11-13,Restaurants,77.28,debit,Credit Card,McDonald's
+1,32,urban,2021-11-13,Travel,733.7,debit,Credit Card,Lyft
+1,32,urban,2021-11-13,Healthcare,380.77,debit,Credit Card,Urgent Care
+1,32,urban,2021-11-17,Shopping,106.25,debit,Credit Card,Walmart
+1,32,urban,2021-11-17,Entertainment,31.99,debit,Credit Card,AMC Theatres
+1,32,urban,2021-11-17,Bills,220.68,debit,Credit Card,Comcast
+1,32,urban,2021-11-17,Restaurants,209.79,debit,Credit Card,Starbucks
+1,32,urban,2021-11-19,Shopping,276.46,debit,Credit Card,Target
+1,32,urban,2021-11-19,Entertainment,73.9,debit,Credit Card,Spotify
+1,32,urban,2021-11-19,Bills,327.43,debit,Credit Card,National Grid
+1,32,urban,2021-11-19,Restaurants,94.33,debit,Credit Card,Chipotle
+1,32,urban,2021-11-19,Travel,811.52,debit,Credit Card,Delta Airlines
+1,32,urban,2021-11-20,Shopping,460.75,debit,Credit Card,Amazon
+1,32,urban,2021-11-20,Bills,470.43,debit,Credit Card,Verizon
+1,32,urban,2021-11-20,Travel,625.73,debit,Credit Card,Delta Airlines
+1,32,urban,2021-11-20,Healthcare,386.7,debit,Credit Card,Health Insurance
+1,32,urban,2021-11-21,Travel,504.03,debit,Credit Card,Lyft
+1,32,urban,2021-11-22,Entertainment,195.11,debit,Credit Card,Spotify
+1,32,urban,2021-11-22,Bills,257.0,debit,Credit Card,Comcast
+1,32,urban,2021-11-24,Shopping,326.19,debit,Credit Card,Walmart
+1,32,urban,2021-11-24,Restaurants,187.8,debit,Credit Card,McDonald's
+1,32,urban,2021-11-24,Travel,216.99,debit,Credit Card,Delta Airlines
+1,32,urban,2021-11-24,Healthcare,263.63,debit,Credit Card,Health Insurance
+1,32,urban,2021-12-05,Salary,5400.05,credit,Savings,Employer Direct Deposit
+1,32,urban,2021-12-08,Shopping,377.71,debit,Credit Card,Best Buy
+1,32,urban,2021-12-08,Bills,408.06,debit,Credit Card,National Grid
+1,32,urban,2021-12-08,Rent/Mortgage,2098.62,debit,Credit Card,Mortgage Company
+1,32,urban,2021-12-11,Entertainment,123.66,debit,Credit Card,Disney+
+1,32,urban,2021-12-11,Restaurants,69.89,debit,Credit Card,Subway
+1,32,urban,2021-12-11,Travel,790.48,debit,Credit Card,Delta Airlines
+1,32,urban,2021-12-11,Healthcare,142.88,debit,Credit Card,Urgent Care
+1,32,urban,2021-12-19,Entertainment,176.61,debit,Credit Card,Disney+
+1,32,urban,2021-12-19,Travel,106.89,debit,Credit Card,Delta Airlines
+1,32,urban,2021-12-22,Shopping,391.13,debit,Credit Card,Amazon
+1,32,urban,2021-12-22,Entertainment,132.74,debit,Credit Card,Netflix
+1,32,urban,2021-12-22,Bills,194.5,debit,Credit Card,Comcast
+1,32,urban,2021-12-22,Restaurants,129.87,debit,Credit Card,Subway
+1,32,urban,2021-12-22,Healthcare,291.3,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-01-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-01-13,Shopping,61.55,debit,Credit Card,Best Buy
+1,32,urban,2022-01-13,Travel,641.86,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-01-13,Healthcare,386.55,debit,Credit Card,Health Insurance
+1,32,urban,2022-01-14,Shopping,100.01,debit,Credit Card,Walmart
+1,32,urban,2022-01-14,Entertainment,120.73,debit,Credit Card,AMC Theatres
+1,32,urban,2022-01-14,Travel,139.13,debit,Credit Card,Delta Airlines
+1,32,urban,2022-01-14,Healthcare,497.53,debit,Credit Card,Urgent Care
+1,32,urban,2022-01-14,Rent/Mortgage,1246.12,debit,Credit Card,Landlord Payment
+1,32,urban,2022-01-15,Entertainment,154.28,debit,Credit Card,AMC Theatres
+1,32,urban,2022-01-15,Bills,124.25,debit,Credit Card,Verizon
+1,32,urban,2022-01-15,Travel,665.07,debit,Credit Card,Delta Airlines
+1,32,urban,2022-01-23,Shopping,465.41,debit,Credit Card,Walmart
+1,32,urban,2022-01-23,Bills,107.54,debit,Credit Card,National Grid
+1,32,urban,2022-01-23,Restaurants,117.77,debit,Credit Card,Subway
+1,32,urban,2022-02-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-02-07,Shopping,127.2,debit,Credit Card,Target
+1,32,urban,2022-02-07,Entertainment,162.66,debit,Credit Card,Disney+
+1,32,urban,2022-02-07,Restaurants,115.78,debit,Credit Card,Chipotle
+1,32,urban,2022-02-07,Travel,171.32,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-02-07,Healthcare,358.52,debit,Credit Card,Urgent Care
+1,32,urban,2022-02-08,Shopping,305.33,debit,Credit Card,Walmart
+1,32,urban,2022-02-08,Entertainment,76.33,debit,Credit Card,Netflix
+1,32,urban,2022-02-08,Restaurants,101.38,debit,Credit Card,Subway
+1,32,urban,2022-02-08,Healthcare,52.74,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-02-09,Bills,121.18,debit,Credit Card,Comcast
+1,32,urban,2022-02-09,Restaurants,144.98,debit,Credit Card,Starbucks
+1,32,urban,2022-02-09,Travel,925.87,debit,Credit Card,Lyft
+1,32,urban,2022-02-09,Healthcare,72.47,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-02-09,Rent/Mortgage,2170.55,debit,Credit Card,Landlord Payment
+1,32,urban,2022-02-12,Bills,313.28,debit,Credit Card,National Grid
+1,32,urban,2022-02-12,Restaurants,193.95,debit,Credit Card,Chipotle
+1,32,urban,2022-02-12,Healthcare,378.33,debit,Credit Card,Health Insurance
+1,32,urban,2022-02-13,Shopping,128.15,debit,Credit Card,Target
+1,32,urban,2022-02-13,Entertainment,171.44,debit,Credit Card,AMC Theatres
+1,32,urban,2022-02-13,Travel,291.67,debit,Credit Card,Lyft
+1,32,urban,2022-02-16,Shopping,91.34,debit,Credit Card,Target
+1,32,urban,2022-02-16,Bills,240.21,debit,Credit Card,Verizon
+1,32,urban,2022-02-16,Restaurants,50.41,debit,Credit Card,Starbucks
+1,32,urban,2022-02-16,Travel,333.66,debit,Credit Card,Delta Airlines
+1,32,urban,2022-02-17,Shopping,492.82,debit,Credit Card,Walmart
+1,32,urban,2022-02-17,Bills,316.32,debit,Credit Card,Verizon
+1,32,urban,2022-02-17,Healthcare,347.94,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-02-18,Shopping,109.55,debit,Credit Card,Walmart
+1,32,urban,2022-02-18,Entertainment,180.23,debit,Credit Card,Netflix
+1,32,urban,2022-02-18,Restaurants,76.11,debit,Credit Card,McDonald's
+1,32,urban,2022-02-18,Travel,889.46,debit,Credit Card,Lyft
+1,32,urban,2022-02-24,Restaurants,58.13,debit,Credit Card,Subway
+1,32,urban,2022-02-24,Travel,781.57,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-02-24,Healthcare,414.55,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-02-25,Shopping,400.78,debit,Credit Card,Walmart
+1,32,urban,2022-02-25,Entertainment,177.15,debit,Credit Card,Netflix
+1,32,urban,2022-02-25,Bills,155.31,debit,Credit Card,National Grid
+1,32,urban,2022-02-25,Restaurants,117.05,debit,Credit Card,Starbucks
+1,32,urban,2022-02-25,Healthcare,301.14,debit,Credit Card,Health Insurance
+1,32,urban,2022-03-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-03-07,Shopping,356.61,debit,Credit Card,Walmart
+1,32,urban,2022-03-07,Entertainment,64.34,debit,Credit Card,Disney+
+1,32,urban,2022-03-07,Bills,346.89,debit,Credit Card,Verizon
+1,32,urban,2022-03-07,Restaurants,90.17,debit,Credit Card,Subway
+1,32,urban,2022-03-07,Travel,859.62,debit,Credit Card,Uber
+1,32,urban,2022-03-08,Entertainment,97.02,debit,Credit Card,Netflix
+1,32,urban,2022-03-08,Bills,405.73,debit,Credit Card,Verizon
+1,32,urban,2022-03-08,Restaurants,93.63,debit,Credit Card,Subway
+1,32,urban,2022-03-08,Healthcare,385.78,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-03-08,Rent/Mortgage,1850.8,debit,Credit Card,Landlord Payment
+1,32,urban,2022-03-11,Shopping,433.41,debit,Credit Card,Best Buy
+1,32,urban,2022-03-11,Bills,113.67,debit,Credit Card,Verizon
+1,32,urban,2022-03-11,Restaurants,150.68,debit,Credit Card,McDonald's
+1,32,urban,2022-03-11,Healthcare,436.45,debit,Credit Card,Walgreens
+1,32,urban,2022-03-12,Shopping,497.4,debit,Credit Card,Walmart
+1,32,urban,2022-03-12,Healthcare,261.32,debit,Credit Card,Health Insurance
+1,32,urban,2022-03-21,Shopping,246.77,debit,Credit Card,Target
+1,32,urban,2022-03-21,Bills,268.37,debit,Credit Card,Eversource
+1,32,urban,2022-03-23,Shopping,480.65,debit,Credit Card,Walmart
+1,32,urban,2022-03-23,Bills,375.23,debit,Credit Card,National Grid
+1,32,urban,2022-03-23,Restaurants,236.79,debit,Credit Card,Starbucks
+1,32,urban,2022-03-23,Travel,852.69,debit,Credit Card,Lyft
+1,32,urban,2022-03-23,Healthcare,284.29,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-03-25,Entertainment,62.04,debit,Credit Card,Disney+
+1,32,urban,2022-03-25,Restaurants,85.46,debit,Credit Card,McDonald's
+1,32,urban,2022-03-25,Travel,918.01,debit,Credit Card,Delta Airlines
+1,32,urban,2022-03-25,Healthcare,179.85,debit,Credit Card,Walgreens
+1,32,urban,2022-04-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-04-06,Shopping,392.64,debit,Credit Card,Best Buy
+1,32,urban,2022-04-06,Entertainment,73.25,debit,Credit Card,Netflix
+1,32,urban,2022-04-06,Restaurants,232.68,debit,Credit Card,Subway
+1,32,urban,2022-04-06,Healthcare,462.25,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-04-06,Rent/Mortgage,1921.19,debit,Credit Card,Mortgage Company
+1,32,urban,2022-04-08,Shopping,287.96,debit,Credit Card,Best Buy
+1,32,urban,2022-04-08,Bills,427.41,debit,Credit Card,Comcast
+1,32,urban,2022-04-08,Restaurants,102.87,debit,Credit Card,McDonald's
+1,32,urban,2022-04-08,Travel,982.44,debit,Credit Card,Lyft
+1,32,urban,2022-04-08,Healthcare,88.37,debit,Credit Card,Health Insurance
+1,32,urban,2022-04-09,Shopping,267.41,debit,Credit Card,Best Buy
+1,32,urban,2022-04-09,Entertainment,22.14,debit,Credit Card,Netflix
+1,32,urban,2022-04-09,Bills,435.03,debit,Credit Card,Comcast
+1,32,urban,2022-04-10,Shopping,469.62,debit,Credit Card,Target
+1,32,urban,2022-04-10,Bills,252.41,debit,Credit Card,National Grid
+1,32,urban,2022-04-10,Travel,972.94,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-04-15,Shopping,266.94,debit,Credit Card,Walmart
+1,32,urban,2022-04-15,Bills,112.59,debit,Credit Card,National Grid
+1,32,urban,2022-04-15,Travel,775.46,debit,Credit Card,Delta Airlines
+1,32,urban,2022-04-15,Healthcare,361.41,debit,Credit Card,Health Insurance
+1,32,urban,2022-04-21,Entertainment,143.34,debit,Credit Card,Spotify
+1,32,urban,2022-04-21,Restaurants,106.53,debit,Credit Card,McDonald's
+1,32,urban,2022-04-25,Entertainment,172.49,debit,Credit Card,Spotify
+1,32,urban,2022-04-25,Restaurants,178.15,debit,Credit Card,Subway
+1,32,urban,2022-04-25,Travel,531.22,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-04-25,Healthcare,372.89,debit,Credit Card,Walgreens
+1,32,urban,2022-05-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-05-06,Bills,373.26,debit,Credit Card,Comcast
+1,32,urban,2022-05-06,Restaurants,51.05,debit,Credit Card,Starbucks
+1,32,urban,2022-05-06,Healthcare,360.35,debit,Credit Card,Health Insurance
+1,32,urban,2022-05-13,Shopping,340.45,debit,Credit Card,Best Buy
+1,32,urban,2022-05-13,Bills,246.81,debit,Credit Card,Eversource
+1,32,urban,2022-05-13,Restaurants,154.21,debit,Credit Card,Chipotle
+1,32,urban,2022-05-13,Travel,377.06,debit,Credit Card,Uber
+1,32,urban,2022-05-13,Rent/Mortgage,2346.41,debit,Credit Card,Landlord Payment
+1,32,urban,2022-05-21,Shopping,499.6,debit,Credit Card,Amazon
+1,32,urban,2022-05-21,Bills,155.48,debit,Credit Card,National Grid
+1,32,urban,2022-05-21,Restaurants,146.74,debit,Credit Card,McDonald's
+1,32,urban,2022-05-21,Travel,283.4,debit,Credit Card,Uber
+1,32,urban,2022-05-26,Entertainment,77.89,debit,Credit Card,Netflix
+1,32,urban,2022-05-26,Bills,464.15,debit,Credit Card,Verizon
+1,32,urban,2022-05-26,Restaurants,157.08,debit,Credit Card,McDonald's
+1,32,urban,2022-05-26,Travel,445.62,debit,Credit Card,Uber
+1,32,urban,2022-05-27,Shopping,189.33,debit,Credit Card,Walmart
+1,32,urban,2022-05-27,Bills,110.33,debit,Credit Card,Comcast
+1,32,urban,2022-05-27,Healthcare,407.67,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-06-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-06-08,Shopping,204.46,debit,Credit Card,Walmart
+1,32,urban,2022-06-08,Entertainment,78.88,debit,Credit Card,AMC Theatres
+1,32,urban,2022-06-08,Bills,349.88,debit,Credit Card,Eversource
+1,32,urban,2022-06-08,Travel,343.52,debit,Credit Card,Delta Airlines
+1,32,urban,2022-06-08,Healthcare,391.91,debit,Credit Card,Health Insurance
+1,32,urban,2022-06-08,Rent/Mortgage,846.6,debit,Credit Card,Mortgage Company
+1,32,urban,2022-06-09,Entertainment,32.37,debit,Credit Card,Disney+
+1,32,urban,2022-06-09,Bills,434.55,debit,Credit Card,Eversource
+1,32,urban,2022-06-09,Travel,827.17,debit,Credit Card,Lyft
+1,32,urban,2022-06-09,Healthcare,112.44,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-06-10,Shopping,393.1,debit,Credit Card,Best Buy
+1,32,urban,2022-06-10,Entertainment,40.47,debit,Credit Card,AMC Theatres
+1,32,urban,2022-06-10,Bills,136.3,debit,Credit Card,Comcast
+1,32,urban,2022-06-10,Restaurants,52.81,debit,Credit Card,Chipotle
+1,32,urban,2022-06-10,Travel,941.92,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-06-13,Entertainment,69.62,debit,Credit Card,Disney+
+1,32,urban,2022-06-13,Restaurants,80.2,debit,Credit Card,Subway
+1,32,urban,2022-06-13,Travel,496.63,debit,Credit Card,Uber
+1,32,urban,2022-06-13,Healthcare,311.3,debit,Credit Card,Health Insurance
+1,32,urban,2022-06-15,Entertainment,83.74,debit,Credit Card,AMC Theatres
+1,32,urban,2022-06-15,Bills,486.07,debit,Credit Card,Comcast
+1,32,urban,2022-06-15,Travel,259.88,debit,Credit Card,Delta Airlines
+1,32,urban,2022-06-15,Healthcare,366.21,debit,Credit Card,Urgent Care
+1,32,urban,2022-06-16,Entertainment,39.45,debit,Credit Card,Netflix
+1,32,urban,2022-06-16,Bills,358.98,debit,Credit Card,National Grid
+1,32,urban,2022-06-16,Travel,371.96,debit,Credit Card,Delta Airlines
+1,32,urban,2022-06-23,Shopping,247.34,debit,Credit Card,Best Buy
+1,32,urban,2022-06-23,Entertainment,152.82,debit,Credit Card,AMC Theatres
+1,32,urban,2022-06-23,Bills,495.29,debit,Credit Card,National Grid
+1,32,urban,2022-06-23,Restaurants,222.74,debit,Credit Card,McDonald's
+1,32,urban,2022-06-23,Travel,863.46,debit,Credit Card,Lyft
+1,32,urban,2022-06-25,Entertainment,34.14,debit,Credit Card,Netflix
+1,32,urban,2022-06-25,Travel,293.66,debit,Credit Card,Lyft
+1,32,urban,2022-06-26,Shopping,194.0,debit,Credit Card,Target
+1,32,urban,2022-06-26,Entertainment,85.56,debit,Credit Card,AMC Theatres
+1,32,urban,2022-07-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-07-08,Entertainment,58.07,debit,Credit Card,Netflix
+1,32,urban,2022-07-08,Bills,119.41,debit,Credit Card,Eversource
+1,32,urban,2022-07-08,Restaurants,246.94,debit,Credit Card,Starbucks
+1,32,urban,2022-07-08,Travel,936.49,debit,Credit Card,Delta Airlines
+1,32,urban,2022-07-08,Healthcare,109.36,debit,Credit Card,Walgreens
+1,32,urban,2022-07-15,Bills,314.29,debit,Credit Card,Comcast
+1,32,urban,2022-07-16,Entertainment,153.9,debit,Credit Card,Spotify
+1,32,urban,2022-07-16,Healthcare,304.08,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-07-16,Rent/Mortgage,1005.12,debit,Credit Card,Landlord Payment
+1,32,urban,2022-07-17,Shopping,491.0,debit,Credit Card,Walmart
+1,32,urban,2022-07-17,Entertainment,48.11,debit,Credit Card,Disney+
+1,32,urban,2022-07-17,Travel,961.82,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-07-27,Entertainment,142.13,debit,Credit Card,AMC Theatres
+1,32,urban,2022-07-27,Bills,328.38,debit,Credit Card,National Grid
+1,32,urban,2022-07-27,Restaurants,209.91,debit,Credit Card,Starbucks
+1,32,urban,2022-07-27,Healthcare,465.83,debit,Credit Card,Walgreens
+1,32,urban,2022-08-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-08-13,Entertainment,162.91,debit,Credit Card,Spotify
+1,32,urban,2022-08-13,Restaurants,163.29,debit,Credit Card,Chipotle
+1,32,urban,2022-08-13,Travel,699.06,debit,Credit Card,Lyft
+1,32,urban,2022-08-13,Healthcare,403.81,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-08-13,Rent/Mortgage,1495.21,debit,Credit Card,Mortgage Company
+1,32,urban,2022-08-19,Entertainment,187.97,debit,Credit Card,Spotify
+1,32,urban,2022-08-19,Restaurants,242.27,debit,Credit Card,Subway
+1,32,urban,2022-08-19,Healthcare,103.04,debit,Credit Card,Walgreens
+1,32,urban,2022-08-25,Entertainment,32.56,debit,Credit Card,Spotify
+1,32,urban,2022-08-25,Travel,537.11,debit,Credit Card,Delta Airlines
+1,32,urban,2022-08-25,Healthcare,349.87,debit,Credit Card,Health Insurance
+1,32,urban,2022-09-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-09-06,Shopping,284.2,debit,Credit Card,Walmart
+1,32,urban,2022-09-06,Entertainment,114.95,debit,Credit Card,Spotify
+1,32,urban,2022-09-06,Bills,132.65,debit,Credit Card,Comcast
+1,32,urban,2022-09-06,Restaurants,143.37,debit,Credit Card,Starbucks
+1,32,urban,2022-09-06,Healthcare,400.14,debit,Credit Card,Health Insurance
+1,32,urban,2022-09-12,Shopping,175.32,debit,Credit Card,Target
+1,32,urban,2022-09-12,Bills,151.84,debit,Credit Card,National Grid
+1,32,urban,2022-09-12,Restaurants,65.28,debit,Credit Card,McDonald's
+1,32,urban,2022-09-12,Travel,666.83,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-09-12,Healthcare,215.12,debit,Credit Card,Urgent Care
+1,32,urban,2022-09-12,Rent/Mortgage,947.81,debit,Credit Card,Landlord Payment
+1,32,urban,2022-09-14,Shopping,216.68,debit,Credit Card,Walmart
+1,32,urban,2022-09-14,Entertainment,120.96,debit,Credit Card,Spotify
+1,32,urban,2022-09-14,Bills,422.49,debit,Credit Card,Comcast
+1,32,urban,2022-09-14,Travel,544.01,debit,Credit Card,Uber
+1,32,urban,2022-09-14,Healthcare,430.92,debit,Credit Card,Health Insurance
+1,32,urban,2022-09-22,Shopping,439.74,debit,Credit Card,Walmart
+1,32,urban,2022-09-22,Bills,381.46,debit,Credit Card,National Grid
+1,32,urban,2022-09-23,Entertainment,87.41,debit,Credit Card,AMC Theatres
+1,32,urban,2022-09-23,Bills,447.0,debit,Credit Card,Verizon
+1,32,urban,2022-09-23,Restaurants,201.94,debit,Credit Card,Starbucks
+1,32,urban,2022-09-23,Healthcare,330.68,debit,Credit Card,Urgent Care
+1,32,urban,2022-10-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-10-09,Shopping,217.34,debit,Credit Card,Best Buy
+1,32,urban,2022-10-09,Restaurants,243.63,debit,Credit Card,Chipotle
+1,32,urban,2022-10-09,Healthcare,163.68,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-10-09,Rent/Mortgage,1950.99,debit,Credit Card,Mortgage Company
+1,32,urban,2022-10-11,Shopping,123.14,debit,Credit Card,Best Buy
+1,32,urban,2022-10-11,Entertainment,82.09,debit,Credit Card,Disney+
+1,32,urban,2022-10-11,Bills,431.22,debit,Credit Card,National Grid
+1,32,urban,2022-10-11,Healthcare,490.05,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-10-14,Bills,210.46,debit,Credit Card,Comcast
+1,32,urban,2022-10-14,Healthcare,335.5,debit,Credit Card,Health Insurance
+1,32,urban,2022-10-15,Bills,129.72,debit,Credit Card,Eversource
+1,32,urban,2022-10-15,Travel,421.98,debit,Credit Card,Lyft
+1,32,urban,2022-10-16,Healthcare,390.59,debit,Credit Card,Health Insurance
+1,32,urban,2022-10-17,Shopping,363.93,debit,Credit Card,Walmart
+1,32,urban,2022-10-17,Entertainment,161.9,debit,Credit Card,Disney+
+1,32,urban,2022-10-17,Bills,100.94,debit,Credit Card,National Grid
+1,32,urban,2022-10-17,Restaurants,212.25,debit,Credit Card,Subway
+1,32,urban,2022-10-21,Shopping,316.1,debit,Credit Card,Amazon
+1,32,urban,2022-10-21,Entertainment,98.13,debit,Credit Card,Netflix
+1,32,urban,2022-10-21,Bills,404.84,debit,Credit Card,Verizon
+1,32,urban,2022-10-21,Healthcare,410.86,debit,Credit Card,Walgreens
+1,32,urban,2022-10-23,Entertainment,36.62,debit,Credit Card,Spotify
+1,32,urban,2022-10-23,Bills,477.36,debit,Credit Card,Comcast
+1,32,urban,2022-10-23,Restaurants,231.71,debit,Credit Card,Subway
+1,32,urban,2022-10-23,Healthcare,451.86,debit,Credit Card,Urgent Care
+1,32,urban,2022-10-27,Bills,313.06,debit,Credit Card,Verizon
+1,32,urban,2022-10-27,Travel,180.72,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-11-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-11-12,Entertainment,172.59,debit,Credit Card,Spotify
+1,32,urban,2022-11-12,Bills,448.03,debit,Credit Card,Comcast
+1,32,urban,2022-11-12,Restaurants,223.09,debit,Credit Card,Starbucks
+1,32,urban,2022-11-12,Travel,864.39,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-11-12,Healthcare,380.63,debit,Credit Card,Health Insurance
+1,32,urban,2022-11-12,Rent/Mortgage,1629.8,debit,Credit Card,Landlord Payment
+1,32,urban,2022-11-22,Entertainment,185.22,debit,Credit Card,Netflix
+1,32,urban,2022-11-22,Bills,355.84,debit,Credit Card,Verizon
+1,32,urban,2022-11-22,Healthcare,160.69,debit,Credit Card,Walgreens
+1,32,urban,2022-11-24,Shopping,299.66,debit,Credit Card,Amazon
+1,32,urban,2022-11-24,Bills,496.75,debit,Credit Card,Eversource
+1,32,urban,2022-11-24,Restaurants,111.68,debit,Credit Card,Starbucks
+1,32,urban,2022-11-24,Travel,778.43,debit,Credit Card,Lyft
+1,32,urban,2022-11-24,Healthcare,465.96,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-12-05,Salary,5620.77,credit,Savings,Employer Direct Deposit
+1,32,urban,2022-12-06,Shopping,64.9,debit,Credit Card,Amazon
+1,32,urban,2022-12-06,Entertainment,84.72,debit,Credit Card,Spotify
+1,32,urban,2022-12-06,Travel,207.9,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-12-06,Healthcare,233.4,debit,Credit Card,Urgent Care
+1,32,urban,2022-12-08,Shopping,204.97,debit,Credit Card,Best Buy
+1,32,urban,2022-12-08,Bills,235.69,debit,Credit Card,National Grid
+1,32,urban,2022-12-08,Travel,767.15,debit,Credit Card,Uber
+1,32,urban,2022-12-08,Healthcare,499.88,debit,Credit Card,CVS Pharmacy
+1,32,urban,2022-12-08,Rent/Mortgage,813.21,debit,Credit Card,Landlord Payment
+1,32,urban,2022-12-13,Shopping,185.0,debit,Credit Card,Amazon
+1,32,urban,2022-12-13,Entertainment,175.38,debit,Credit Card,Spotify
+1,32,urban,2022-12-13,Bills,482.34,debit,Credit Card,Eversource
+1,32,urban,2022-12-13,Restaurants,134.83,debit,Credit Card,Chipotle
+1,32,urban,2022-12-13,Travel,210.78,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-12-13,Healthcare,418.63,debit,Credit Card,Walgreens
+1,32,urban,2022-12-14,Entertainment,191.2,debit,Credit Card,Disney+
+1,32,urban,2022-12-14,Restaurants,225.65,debit,Credit Card,Starbucks
+1,32,urban,2022-12-16,Shopping,457.23,debit,Credit Card,Target
+1,32,urban,2022-12-16,Restaurants,69.62,debit,Credit Card,Chipotle
+1,32,urban,2022-12-19,Entertainment,127.55,debit,Credit Card,AMC Theatres
+1,32,urban,2022-12-19,Bills,491.61,debit,Credit Card,Eversource
+1,32,urban,2022-12-19,Restaurants,77.84,debit,Credit Card,McDonald's
+1,32,urban,2022-12-19,Travel,107.58,debit,Credit Card,Uber
+1,32,urban,2022-12-20,Bills,364.98,debit,Credit Card,Verizon
+1,32,urban,2022-12-20,Travel,936.16,debit,Credit Card,Lyft
+1,32,urban,2022-12-22,Shopping,57.97,debit,Credit Card,Target
+1,32,urban,2022-12-22,Entertainment,27.39,debit,Credit Card,Disney+
+1,32,urban,2022-12-22,Restaurants,140.94,debit,Credit Card,Subway
+1,32,urban,2022-12-22,Travel,100.36,debit,Credit Card,Hilton Hotels
+1,32,urban,2022-12-26,Shopping,113.75,debit,Credit Card,Best Buy
+1,32,urban,2022-12-26,Bills,306.22,debit,Credit Card,Comcast
+1,32,urban,2022-12-26,Travel,369.76,debit,Credit Card,Lyft
+1,32,urban,2023-01-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-01-06,Shopping,402.61,debit,Credit Card,Walmart
+1,32,urban,2023-01-06,Restaurants,158.43,debit,Credit Card,Subway
+1,32,urban,2023-01-06,Travel,691.84,debit,Credit Card,Lyft
+1,32,urban,2023-01-06,Healthcare,464.83,debit,Credit Card,Health Insurance
+1,32,urban,2023-01-06,Rent/Mortgage,1803.03,debit,Credit Card,Landlord Payment
+1,32,urban,2023-01-08,Shopping,53.81,debit,Credit Card,Target
+1,32,urban,2023-01-08,Entertainment,37.97,debit,Credit Card,Netflix
+1,32,urban,2023-01-08,Restaurants,188.32,debit,Credit Card,Chipotle
+1,32,urban,2023-01-08,Travel,384.61,debit,Credit Card,Lyft
+1,32,urban,2023-01-08,Healthcare,71.88,debit,Credit Card,Health Insurance
+1,32,urban,2023-01-15,Shopping,281.26,debit,Credit Card,Walmart
+1,32,urban,2023-01-15,Entertainment,120.39,debit,Credit Card,Spotify
+1,32,urban,2023-01-15,Restaurants,206.69,debit,Credit Card,McDonald's
+1,32,urban,2023-01-15,Travel,222.96,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-01-15,Healthcare,58.59,debit,Credit Card,Health Insurance
+1,32,urban,2023-01-16,Shopping,450.5,debit,Credit Card,Target
+1,32,urban,2023-01-16,Bills,226.93,debit,Credit Card,Verizon
+1,32,urban,2023-01-16,Restaurants,160.94,debit,Credit Card,Subway
+1,32,urban,2023-01-16,Travel,919.29,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-01-17,Shopping,175.51,debit,Credit Card,Walmart
+1,32,urban,2023-01-17,Bills,489.42,debit,Credit Card,Verizon
+1,32,urban,2023-01-17,Restaurants,79.53,debit,Credit Card,McDonald's
+1,32,urban,2023-01-17,Travel,701.02,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-01-17,Healthcare,453.11,debit,Credit Card,Urgent Care
+1,32,urban,2023-01-20,Healthcare,316.34,debit,Credit Card,Urgent Care
+1,32,urban,2023-01-24,Shopping,419.64,debit,Credit Card,Amazon
+1,32,urban,2023-01-24,Entertainment,54.94,debit,Credit Card,Spotify
+1,32,urban,2023-01-24,Bills,314.47,debit,Credit Card,Verizon
+1,32,urban,2023-01-24,Restaurants,53.46,debit,Credit Card,Chipotle
+1,32,urban,2023-01-24,Travel,145.55,debit,Credit Card,Uber
+1,32,urban,2023-01-26,Shopping,153.24,debit,Credit Card,Best Buy
+1,32,urban,2023-01-26,Entertainment,87.3,debit,Credit Card,Spotify
+1,32,urban,2023-01-26,Restaurants,180.49,debit,Credit Card,Starbucks
+1,32,urban,2023-01-26,Travel,424.89,debit,Credit Card,Uber
+1,32,urban,2023-01-26,Healthcare,265.79,debit,Credit Card,Urgent Care
+1,32,urban,2023-02-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-02-08,Shopping,82.64,debit,Credit Card,Walmart
+1,32,urban,2023-02-08,Bills,375.44,debit,Credit Card,National Grid
+1,32,urban,2023-02-08,Restaurants,228.38,debit,Credit Card,Starbucks
+1,32,urban,2023-02-10,Shopping,303.17,debit,Credit Card,Walmart
+1,32,urban,2023-02-10,Entertainment,111.25,debit,Credit Card,Netflix
+1,32,urban,2023-02-11,Shopping,414.37,debit,Credit Card,Best Buy
+1,32,urban,2023-02-11,Entertainment,25.71,debit,Credit Card,Disney+
+1,32,urban,2023-02-11,Restaurants,127.83,debit,Credit Card,Starbucks
+1,32,urban,2023-02-11,Healthcare,183.91,debit,Credit Card,Urgent Care
+1,32,urban,2023-02-11,Rent/Mortgage,1981.32,debit,Credit Card,Landlord Payment
+1,32,urban,2023-02-12,Shopping,163.72,debit,Credit Card,Target
+1,32,urban,2023-02-12,Entertainment,35.78,debit,Credit Card,Spotify
+1,32,urban,2023-02-12,Bills,477.36,debit,Credit Card,Eversource
+1,32,urban,2023-02-12,Restaurants,178.39,debit,Credit Card,McDonald's
+1,32,urban,2023-02-13,Shopping,457.44,debit,Credit Card,Amazon
+1,32,urban,2023-02-13,Bills,482.15,debit,Credit Card,Verizon
+1,32,urban,2023-02-20,Shopping,375.8,debit,Credit Card,Walmart
+1,32,urban,2023-02-20,Bills,275.9,debit,Credit Card,Comcast
+1,32,urban,2023-02-20,Restaurants,233.54,debit,Credit Card,Subway
+1,32,urban,2023-02-20,Travel,358.1,debit,Credit Card,Lyft
+1,32,urban,2023-02-22,Shopping,474.15,debit,Credit Card,Target
+1,32,urban,2023-02-22,Entertainment,50.93,debit,Credit Card,AMC Theatres
+1,32,urban,2023-02-22,Restaurants,66.32,debit,Credit Card,Chipotle
+1,32,urban,2023-02-22,Travel,348.27,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-02-24,Shopping,455.47,debit,Credit Card,Amazon
+1,32,urban,2023-02-24,Entertainment,182.17,debit,Credit Card,Netflix
+1,32,urban,2023-02-24,Restaurants,157.82,debit,Credit Card,McDonald's
+1,32,urban,2023-02-24,Healthcare,456.27,debit,Credit Card,Walgreens
+1,32,urban,2023-02-27,Shopping,259.43,debit,Credit Card,Walmart
+1,32,urban,2023-02-27,Entertainment,186.64,debit,Credit Card,AMC Theatres
+1,32,urban,2023-02-27,Healthcare,78.15,debit,Credit Card,Urgent Care
+1,32,urban,2023-03-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-03-07,Shopping,93.86,debit,Credit Card,Walmart
+1,32,urban,2023-03-07,Restaurants,121.31,debit,Credit Card,McDonald's
+1,32,urban,2023-03-07,Healthcare,266.34,debit,Credit Card,Health Insurance
+1,32,urban,2023-03-07,Rent/Mortgage,1938.38,debit,Credit Card,Mortgage Company
+1,32,urban,2023-03-10,Entertainment,152.6,debit,Credit Card,Spotify
+1,32,urban,2023-03-10,Bills,437.97,debit,Credit Card,National Grid
+1,32,urban,2023-03-10,Restaurants,53.51,debit,Credit Card,Starbucks
+1,32,urban,2023-03-10,Travel,840.73,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-03-15,Restaurants,195.32,debit,Credit Card,Starbucks
+1,32,urban,2023-03-16,Shopping,388.55,debit,Credit Card,Walmart
+1,32,urban,2023-03-16,Entertainment,81.2,debit,Credit Card,AMC Theatres
+1,32,urban,2023-03-16,Bills,492.68,debit,Credit Card,National Grid
+1,32,urban,2023-03-16,Restaurants,53.37,debit,Credit Card,McDonald's
+1,32,urban,2023-03-16,Healthcare,296.81,debit,Credit Card,Urgent Care
+1,32,urban,2023-03-23,Restaurants,158.72,debit,Credit Card,Chipotle
+1,32,urban,2023-03-23,Travel,606.41,debit,Credit Card,Delta Airlines
+1,32,urban,2023-03-27,Shopping,386.1,debit,Credit Card,Target
+1,32,urban,2023-03-27,Bills,385.85,debit,Credit Card,Comcast
+1,32,urban,2023-03-27,Healthcare,257.98,debit,Credit Card,Walgreens
+1,32,urban,2023-04-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-04-06,Bills,189.0,debit,Credit Card,National Grid
+1,32,urban,2023-04-06,Restaurants,204.58,debit,Credit Card,Starbucks
+1,32,urban,2023-04-06,Travel,292.37,debit,Credit Card,Uber
+1,32,urban,2023-04-06,Rent/Mortgage,1500.03,debit,Credit Card,Mortgage Company
+1,32,urban,2023-04-12,Shopping,169.29,debit,Credit Card,Walmart
+1,32,urban,2023-04-12,Bills,302.19,debit,Credit Card,Eversource
+1,32,urban,2023-04-12,Restaurants,215.62,debit,Credit Card,Starbucks
+1,32,urban,2023-04-12,Healthcare,418.95,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-04-13,Shopping,293.38,debit,Credit Card,Best Buy
+1,32,urban,2023-04-13,Entertainment,42.73,debit,Credit Card,Netflix
+1,32,urban,2023-04-13,Bills,197.99,debit,Credit Card,National Grid
+1,32,urban,2023-04-13,Travel,597.35,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-04-13,Healthcare,146.69,debit,Credit Card,Walgreens
+1,32,urban,2023-04-17,Shopping,107.61,debit,Credit Card,Best Buy
+1,32,urban,2023-04-17,Entertainment,192.97,debit,Credit Card,Spotify
+1,32,urban,2023-04-17,Bills,478.95,debit,Credit Card,Comcast
+1,32,urban,2023-04-17,Restaurants,138.61,debit,Credit Card,Chipotle
+1,32,urban,2023-04-18,Shopping,234.45,debit,Credit Card,Best Buy
+1,32,urban,2023-04-18,Entertainment,192.51,debit,Credit Card,AMC Theatres
+1,32,urban,2023-04-18,Healthcare,216.2,debit,Credit Card,Urgent Care
+1,32,urban,2023-04-22,Entertainment,103.07,debit,Credit Card,Spotify
+1,32,urban,2023-04-22,Bills,398.25,debit,Credit Card,National Grid
+1,32,urban,2023-04-22,Restaurants,180.55,debit,Credit Card,Chipotle
+1,32,urban,2023-04-22,Healthcare,347.03,debit,Credit Card,Health Insurance
+1,32,urban,2023-04-25,Entertainment,36.59,debit,Credit Card,Netflix
+1,32,urban,2023-04-25,Bills,223.4,debit,Credit Card,Verizon
+1,32,urban,2023-04-25,Restaurants,226.43,debit,Credit Card,Starbucks
+1,32,urban,2023-04-25,Travel,466.8,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-04-25,Healthcare,486.18,debit,Credit Card,Walgreens
+1,32,urban,2023-04-26,Shopping,160.28,debit,Credit Card,Walmart
+1,32,urban,2023-04-26,Entertainment,126.98,debit,Credit Card,AMC Theatres
+1,32,urban,2023-04-26,Restaurants,202.51,debit,Credit Card,Chipotle
+1,32,urban,2023-04-26,Travel,501.34,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-04-26,Healthcare,449.0,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-04-27,Bills,433.35,debit,Credit Card,Verizon
+1,32,urban,2023-04-27,Travel,928.64,debit,Credit Card,Uber
+1,32,urban,2023-05-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-05-06,Entertainment,111.12,debit,Credit Card,Disney+
+1,32,urban,2023-05-06,Bills,497.35,debit,Credit Card,Verizon
+1,32,urban,2023-05-06,Healthcare,447.84,debit,Credit Card,Health Insurance
+1,32,urban,2023-05-06,Rent/Mortgage,914.07,debit,Credit Card,Landlord Payment
+1,32,urban,2023-05-07,Entertainment,187.72,debit,Credit Card,Disney+
+1,32,urban,2023-05-07,Restaurants,178.81,debit,Credit Card,Starbucks
+1,32,urban,2023-05-07,Travel,978.99,debit,Credit Card,Uber
+1,32,urban,2023-05-07,Healthcare,138.38,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-05-09,Shopping,341.24,debit,Credit Card,Best Buy
+1,32,urban,2023-05-09,Entertainment,42.32,debit,Credit Card,Spotify
+1,32,urban,2023-05-09,Bills,160.62,debit,Credit Card,Verizon
+1,32,urban,2023-05-09,Restaurants,93.74,debit,Credit Card,Starbucks
+1,32,urban,2023-05-09,Travel,588.65,debit,Credit Card,Uber
+1,32,urban,2023-05-14,Shopping,440.87,debit,Credit Card,Best Buy
+1,32,urban,2023-05-14,Travel,232.63,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-05-14,Healthcare,247.67,debit,Credit Card,Urgent Care
+1,32,urban,2023-05-16,Bills,104.01,debit,Credit Card,Comcast
+1,32,urban,2023-05-16,Restaurants,170.42,debit,Credit Card,McDonald's
+1,32,urban,2023-05-16,Healthcare,330.29,debit,Credit Card,Urgent Care
+1,32,urban,2023-05-18,Bills,118.42,debit,Credit Card,Eversource
+1,32,urban,2023-05-18,Restaurants,68.12,debit,Credit Card,Starbucks
+1,32,urban,2023-05-18,Healthcare,203.6,debit,Credit Card,Walgreens
+1,32,urban,2023-05-20,Shopping,207.94,debit,Credit Card,Walmart
+1,32,urban,2023-05-20,Entertainment,183.92,debit,Credit Card,Netflix
+1,32,urban,2023-05-20,Bills,344.15,debit,Credit Card,Eversource
+1,32,urban,2023-05-20,Restaurants,231.99,debit,Credit Card,McDonald's
+1,32,urban,2023-05-20,Travel,106.21,debit,Credit Card,Uber
+1,32,urban,2023-05-23,Shopping,254.09,debit,Credit Card,Walmart
+1,32,urban,2023-05-23,Bills,113.91,debit,Credit Card,National Grid
+1,32,urban,2023-05-23,Restaurants,194.29,debit,Credit Card,Starbucks
+1,32,urban,2023-05-23,Travel,430.7,debit,Credit Card,Delta Airlines
+1,32,urban,2023-05-23,Healthcare,108.28,debit,Credit Card,Walgreens
+1,32,urban,2023-05-25,Shopping,52.97,debit,Credit Card,Target
+1,32,urban,2023-05-25,Healthcare,438.29,debit,Credit Card,Urgent Care
+1,32,urban,2023-06-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-06-07,Entertainment,153.47,debit,Credit Card,Spotify
+1,32,urban,2023-06-07,Restaurants,166.81,debit,Credit Card,Starbucks
+1,32,urban,2023-06-07,Travel,469.91,debit,Credit Card,Lyft
+1,32,urban,2023-06-07,Healthcare,302.03,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-06-07,Rent/Mortgage,1421.99,debit,Credit Card,Mortgage Company
+1,32,urban,2023-06-08,Entertainment,117.01,debit,Credit Card,AMC Theatres
+1,32,urban,2023-06-08,Bills,259.29,debit,Credit Card,Verizon
+1,32,urban,2023-06-08,Travel,422.5,debit,Credit Card,Delta Airlines
+1,32,urban,2023-06-13,Shopping,455.46,debit,Credit Card,Amazon
+1,32,urban,2023-06-13,Entertainment,93.21,debit,Credit Card,Netflix
+1,32,urban,2023-06-13,Bills,147.79,debit,Credit Card,National Grid
+1,32,urban,2023-06-13,Restaurants,193.58,debit,Credit Card,Subway
+1,32,urban,2023-06-15,Shopping,354.67,debit,Credit Card,Amazon
+1,32,urban,2023-06-15,Entertainment,165.01,debit,Credit Card,Netflix
+1,32,urban,2023-06-15,Restaurants,122.46,debit,Credit Card,Chipotle
+1,32,urban,2023-06-15,Travel,446.12,debit,Credit Card,Lyft
+1,32,urban,2023-06-17,Shopping,425.64,debit,Credit Card,Best Buy
+1,32,urban,2023-06-17,Entertainment,21.44,debit,Credit Card,AMC Theatres
+1,32,urban,2023-06-17,Bills,125.03,debit,Credit Card,Comcast
+1,32,urban,2023-06-17,Restaurants,105.94,debit,Credit Card,Starbucks
+1,32,urban,2023-06-17,Travel,214.48,debit,Credit Card,Lyft
+1,32,urban,2023-06-19,Shopping,269.06,debit,Credit Card,Target
+1,32,urban,2023-06-19,Entertainment,82.67,debit,Credit Card,Spotify
+1,32,urban,2023-06-19,Bills,103.78,debit,Credit Card,Verizon
+1,32,urban,2023-06-19,Healthcare,123.99,debit,Credit Card,Health Insurance
+1,32,urban,2023-06-21,Entertainment,82.92,debit,Credit Card,Disney+
+1,32,urban,2023-06-21,Travel,387.28,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-06-21,Healthcare,397.45,debit,Credit Card,Walgreens
+1,32,urban,2023-06-23,Shopping,299.61,debit,Credit Card,Target
+1,32,urban,2023-06-23,Entertainment,20.84,debit,Credit Card,Disney+
+1,32,urban,2023-06-23,Bills,191.3,debit,Credit Card,Comcast
+1,32,urban,2023-06-23,Restaurants,67.06,debit,Credit Card,McDonald's
+1,32,urban,2023-06-23,Travel,204.86,debit,Credit Card,Uber
+1,32,urban,2023-06-23,Healthcare,291.49,debit,Credit Card,Health Insurance
+1,32,urban,2023-06-27,Entertainment,86.97,debit,Credit Card,Spotify
+1,32,urban,2023-06-27,Healthcare,341.58,debit,Credit Card,Urgent Care
+1,32,urban,2023-07-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-07-06,Shopping,124.41,debit,Credit Card,Target
+1,32,urban,2023-07-06,Entertainment,140.07,debit,Credit Card,AMC Theatres
+1,32,urban,2023-07-06,Restaurants,184.31,debit,Credit Card,Subway
+1,32,urban,2023-07-06,Travel,761.56,debit,Credit Card,Lyft
+1,32,urban,2023-07-06,Rent/Mortgage,2089.74,debit,Credit Card,Landlord Payment
+1,32,urban,2023-07-07,Shopping,222.41,debit,Credit Card,Walmart
+1,32,urban,2023-07-07,Restaurants,108.59,debit,Credit Card,McDonald's
+1,32,urban,2023-07-07,Travel,527.0,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-07-09,Shopping,426.31,debit,Credit Card,Target
+1,32,urban,2023-07-09,Travel,575.64,debit,Credit Card,Uber
+1,32,urban,2023-07-11,Shopping,64.38,debit,Credit Card,Amazon
+1,32,urban,2023-07-11,Entertainment,70.56,debit,Credit Card,AMC Theatres
+1,32,urban,2023-07-11,Bills,314.47,debit,Credit Card,Eversource
+1,32,urban,2023-07-11,Travel,221.67,debit,Credit Card,Lyft
+1,32,urban,2023-07-11,Healthcare,277.84,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-07-15,Entertainment,48.58,debit,Credit Card,Disney+
+1,32,urban,2023-07-15,Bills,121.55,debit,Credit Card,Comcast
+1,32,urban,2023-07-15,Travel,243.93,debit,Credit Card,Lyft
+1,32,urban,2023-07-17,Shopping,96.2,debit,Credit Card,Walmart
+1,32,urban,2023-07-17,Restaurants,56.17,debit,Credit Card,McDonald's
+1,32,urban,2023-07-17,Travel,223.77,debit,Credit Card,Delta Airlines
+1,32,urban,2023-07-17,Healthcare,211.04,debit,Credit Card,Urgent Care
+1,32,urban,2023-07-20,Entertainment,85.36,debit,Credit Card,AMC Theatres
+1,32,urban,2023-07-20,Bills,294.1,debit,Credit Card,National Grid
+1,32,urban,2023-07-20,Restaurants,125.98,debit,Credit Card,McDonald's
+1,32,urban,2023-07-20,Travel,386.25,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-07-22,Entertainment,28.98,debit,Credit Card,Spotify
+1,32,urban,2023-07-22,Restaurants,236.07,debit,Credit Card,McDonald's
+1,32,urban,2023-07-22,Travel,978.94,debit,Credit Card,Delta Airlines
+1,32,urban,2023-07-22,Healthcare,343.75,debit,Credit Card,Urgent Care
+1,32,urban,2023-07-26,Shopping,138.83,debit,Credit Card,Amazon
+1,32,urban,2023-07-26,Entertainment,24.79,debit,Credit Card,Netflix
+1,32,urban,2023-07-26,Bills,314.93,debit,Credit Card,Eversource
+1,32,urban,2023-07-26,Restaurants,87.53,debit,Credit Card,Starbucks
+1,32,urban,2023-07-26,Travel,837.38,debit,Credit Card,Uber
+1,32,urban,2023-07-26,Healthcare,491.93,debit,Credit Card,Urgent Care
+1,32,urban,2023-08-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-08-08,Shopping,261.1,debit,Credit Card,Amazon
+1,32,urban,2023-08-08,Bills,430.12,debit,Credit Card,Comcast
+1,32,urban,2023-08-08,Restaurants,78.58,debit,Credit Card,McDonald's
+1,32,urban,2023-08-08,Healthcare,130.96,debit,Credit Card,Health Insurance
+1,32,urban,2023-08-10,Shopping,188.44,debit,Credit Card,Walmart
+1,32,urban,2023-08-10,Entertainment,23.64,debit,Credit Card,Netflix
+1,32,urban,2023-08-10,Bills,240.82,debit,Credit Card,National Grid
+1,32,urban,2023-08-10,Restaurants,138.25,debit,Credit Card,Starbucks
+1,32,urban,2023-08-10,Travel,331.21,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-08-10,Healthcare,217.73,debit,Credit Card,Health Insurance
+1,32,urban,2023-08-10,Rent/Mortgage,1490.38,debit,Credit Card,Mortgage Company
+1,32,urban,2023-08-19,Shopping,110.14,debit,Credit Card,Walmart
+1,32,urban,2023-08-19,Restaurants,163.82,debit,Credit Card,Subway
+1,32,urban,2023-08-19,Travel,790.17,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-08-19,Healthcare,102.97,debit,Credit Card,Walgreens
+1,32,urban,2023-09-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-09-16,Shopping,247.57,debit,Credit Card,Best Buy
+1,32,urban,2023-09-16,Entertainment,110.7,debit,Credit Card,Spotify
+1,32,urban,2023-09-16,Travel,623.99,debit,Credit Card,Uber
+1,32,urban,2023-09-20,Bills,354.2,debit,Credit Card,National Grid
+1,32,urban,2023-09-20,Travel,102.71,debit,Credit Card,Uber
+1,32,urban,2023-09-20,Healthcare,247.64,debit,Credit Card,Urgent Care
+1,32,urban,2023-09-20,Rent/Mortgage,2108.71,debit,Credit Card,Mortgage Company
+1,32,urban,2023-09-27,Shopping,393.15,debit,Credit Card,Walmart
+1,32,urban,2023-09-27,Travel,977.37,debit,Credit Card,Uber
+1,32,urban,2023-09-27,Healthcare,119.59,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-10-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-10-07,Bills,149.73,debit,Credit Card,Verizon
+1,32,urban,2023-10-07,Restaurants,142.27,debit,Credit Card,Chipotle
+1,32,urban,2023-10-07,Travel,791.24,debit,Credit Card,Lyft
+1,32,urban,2023-10-07,Healthcare,417.61,debit,Credit Card,Urgent Care
+1,32,urban,2023-10-07,Rent/Mortgage,2203.37,debit,Credit Card,Mortgage Company
+1,32,urban,2023-10-12,Shopping,163.13,debit,Credit Card,Best Buy
+1,32,urban,2023-10-12,Entertainment,174.74,debit,Credit Card,Netflix
+1,32,urban,2023-10-12,Travel,237.16,debit,Credit Card,Delta Airlines
+1,32,urban,2023-10-12,Healthcare,291.1,debit,Credit Card,Health Insurance
+1,32,urban,2023-10-16,Entertainment,33.24,debit,Credit Card,Spotify
+1,32,urban,2023-10-16,Restaurants,170.6,debit,Credit Card,Chipotle
+1,32,urban,2023-10-16,Travel,506.65,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-10-16,Healthcare,257.63,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-10-17,Bills,323.68,debit,Credit Card,Comcast
+1,32,urban,2023-10-17,Restaurants,168.53,debit,Credit Card,Chipotle
+1,32,urban,2023-10-17,Travel,329.15,debit,Credit Card,Lyft
+1,32,urban,2023-10-20,Shopping,420.0,debit,Credit Card,Walmart
+1,32,urban,2023-10-20,Entertainment,128.28,debit,Credit Card,Spotify
+1,32,urban,2023-10-20,Bills,185.42,debit,Credit Card,National Grid
+1,32,urban,2023-10-20,Restaurants,203.33,debit,Credit Card,Chipotle
+1,32,urban,2023-10-20,Travel,606.71,debit,Credit Card,Uber
+1,32,urban,2023-10-20,Healthcare,429.1,debit,Credit Card,Walgreens
+1,32,urban,2023-10-24,Entertainment,76.65,debit,Credit Card,Netflix
+1,32,urban,2023-10-24,Bills,439.81,debit,Credit Card,Comcast
+1,32,urban,2023-10-24,Restaurants,213.55,debit,Credit Card,McDonald's
+1,32,urban,2023-10-24,Healthcare,264.86,debit,Credit Card,Health Insurance
+1,32,urban,2023-10-25,Shopping,323.92,debit,Credit Card,Target
+1,32,urban,2023-10-25,Entertainment,148.2,debit,Credit Card,Spotify
+1,32,urban,2023-10-25,Restaurants,181.93,debit,Credit Card,McDonald's
+1,32,urban,2023-10-25,Travel,819.12,debit,Credit Card,Delta Airlines
+1,32,urban,2023-10-26,Bills,111.39,debit,Credit Card,Comcast
+1,32,urban,2023-10-26,Restaurants,57.56,debit,Credit Card,Subway
+1,32,urban,2023-10-26,Travel,880.12,debit,Credit Card,Uber
+1,32,urban,2023-10-26,Healthcare,424.61,debit,Credit Card,Health Insurance
+1,32,urban,2023-10-27,Bills,192.26,debit,Credit Card,Verizon
+1,32,urban,2023-10-27,Restaurants,229.04,debit,Credit Card,McDonald's
+1,32,urban,2023-10-27,Healthcare,216.17,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-11-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-11-06,Shopping,63.34,debit,Credit Card,Amazon
+1,32,urban,2023-11-06,Bills,156.81,debit,Credit Card,Eversource
+1,32,urban,2023-11-06,Restaurants,206.67,debit,Credit Card,Subway
+1,32,urban,2023-11-06,Travel,498.98,debit,Credit Card,Lyft
+1,32,urban,2023-11-06,Healthcare,464.4,debit,Credit Card,Walgreens
+1,32,urban,2023-11-06,Rent/Mortgage,2441.24,debit,Credit Card,Landlord Payment
+1,32,urban,2023-11-10,Shopping,445.4,debit,Credit Card,Walmart
+1,32,urban,2023-11-10,Restaurants,227.37,debit,Credit Card,Chipotle
+1,32,urban,2023-11-10,Travel,780.45,debit,Credit Card,Lyft
+1,32,urban,2023-11-10,Healthcare,345.65,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-11-13,Shopping,426.2,debit,Credit Card,Target
+1,32,urban,2023-11-13,Restaurants,232.85,debit,Credit Card,Starbucks
+1,32,urban,2023-11-13,Healthcare,145.3,debit,Credit Card,Walgreens
+1,32,urban,2023-11-15,Shopping,221.8,debit,Credit Card,Best Buy
+1,32,urban,2023-11-15,Entertainment,159.81,debit,Credit Card,Netflix
+1,32,urban,2023-11-15,Travel,917.9,debit,Credit Card,Delta Airlines
+1,32,urban,2023-11-15,Healthcare,50.08,debit,Credit Card,Walgreens
+1,32,urban,2023-11-16,Shopping,148.65,debit,Credit Card,Amazon
+1,32,urban,2023-11-16,Entertainment,193.91,debit,Credit Card,Spotify
+1,32,urban,2023-11-16,Bills,444.62,debit,Credit Card,National Grid
+1,32,urban,2023-11-16,Healthcare,378.91,debit,Credit Card,Urgent Care
+1,32,urban,2023-11-18,Restaurants,88.04,debit,Credit Card,McDonald's
+1,32,urban,2023-11-23,Shopping,115.03,debit,Credit Card,Target
+1,32,urban,2023-11-23,Bills,307.16,debit,Credit Card,Comcast
+1,32,urban,2023-11-23,Restaurants,222.94,debit,Credit Card,Subway
+1,32,urban,2023-11-23,Healthcare,352.79,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-11-24,Shopping,269.15,debit,Credit Card,Best Buy
+1,32,urban,2023-11-24,Entertainment,186.55,debit,Credit Card,Disney+
+1,32,urban,2023-11-24,Bills,380.25,debit,Credit Card,Verizon
+1,32,urban,2023-11-24,Restaurants,114.04,debit,Credit Card,Starbucks
+1,32,urban,2023-11-25,Entertainment,77.86,debit,Credit Card,Disney+
+1,32,urban,2023-11-25,Bills,426.32,debit,Credit Card,Verizon
+1,32,urban,2023-11-25,Restaurants,241.19,debit,Credit Card,Subway
+1,32,urban,2023-11-25,Travel,543.98,debit,Credit Card,Lyft
+1,32,urban,2023-11-26,Shopping,50.09,debit,Credit Card,Best Buy
+1,32,urban,2023-11-26,Bills,401.85,debit,Credit Card,Verizon
+1,32,urban,2023-11-26,Travel,524.15,debit,Credit Card,Lyft
+1,32,urban,2023-11-26,Healthcare,153.21,debit,Credit Card,Health Insurance
+1,32,urban,2023-12-05,Salary,5850.51,credit,Savings,Employer Direct Deposit
+1,32,urban,2023-12-08,Restaurants,243.0,debit,Credit Card,Subway
+1,32,urban,2023-12-08,Travel,516.72,debit,Credit Card,Delta Airlines
+1,32,urban,2023-12-08,Healthcare,147.8,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-12-08,Rent/Mortgage,1849.36,debit,Credit Card,Landlord Payment
+1,32,urban,2023-12-10,Shopping,485.45,debit,Credit Card,Walmart
+1,32,urban,2023-12-10,Travel,152.89,debit,Credit Card,Delta Airlines
+1,32,urban,2023-12-12,Shopping,208.74,debit,Credit Card,Best Buy
+1,32,urban,2023-12-12,Entertainment,121.31,debit,Credit Card,Disney+
+1,32,urban,2023-12-12,Bills,374.71,debit,Credit Card,National Grid
+1,32,urban,2023-12-12,Restaurants,167.05,debit,Credit Card,Starbucks
+1,32,urban,2023-12-12,Travel,664.69,debit,Credit Card,Lyft
+1,32,urban,2023-12-12,Healthcare,272.39,debit,Credit Card,Urgent Care
+1,32,urban,2023-12-14,Shopping,421.7,debit,Credit Card,Walmart
+1,32,urban,2023-12-14,Entertainment,154.33,debit,Credit Card,Spotify
+1,32,urban,2023-12-14,Bills,199.99,debit,Credit Card,National Grid
+1,32,urban,2023-12-14,Restaurants,210.5,debit,Credit Card,McDonald's
+1,32,urban,2023-12-18,Shopping,236.02,debit,Credit Card,Best Buy
+1,32,urban,2023-12-18,Entertainment,174.29,debit,Credit Card,Netflix
+1,32,urban,2023-12-18,Restaurants,162.19,debit,Credit Card,Starbucks
+1,32,urban,2023-12-18,Healthcare,146.31,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-12-19,Shopping,274.18,debit,Credit Card,Target
+1,32,urban,2023-12-19,Entertainment,70.95,debit,Credit Card,Spotify
+1,32,urban,2023-12-19,Restaurants,63.78,debit,Credit Card,Subway
+1,32,urban,2023-12-19,Travel,567.18,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-12-19,Healthcare,495.86,debit,Credit Card,CVS Pharmacy
+1,32,urban,2023-12-20,Entertainment,163.46,debit,Credit Card,Spotify
+1,32,urban,2023-12-20,Bills,191.92,debit,Credit Card,Eversource
+1,32,urban,2023-12-20,Restaurants,235.13,debit,Credit Card,Chipotle
+1,32,urban,2023-12-20,Travel,636.8,debit,Credit Card,Hilton Hotels
+1,32,urban,2023-12-20,Healthcare,330.46,debit,Credit Card,Urgent Care
+1,32,urban,2023-12-22,Shopping,452.75,debit,Credit Card,Target
+1,32,urban,2023-12-22,Restaurants,52.22,debit,Credit Card,Starbucks
+1,32,urban,2023-12-27,Entertainment,42.29,debit,Credit Card,AMC Theatres
+1,32,urban,2023-12-27,Restaurants,213.85,debit,Credit Card,McDonald's
+1,32,urban,2023-12-27,Travel,674.15,debit,Credit Card,Uber
+1,32,urban,2024-01-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-01-08,Shopping,151.03,debit,Credit Card,Best Buy
+1,32,urban,2024-01-08,Bills,113.46,debit,Credit Card,National Grid
+1,32,urban,2024-01-08,Restaurants,88.15,debit,Credit Card,Starbucks
+1,32,urban,2024-01-08,Travel,701.74,debit,Credit Card,Uber
+1,32,urban,2024-01-08,Healthcare,448.07,debit,Credit Card,Health Insurance
+1,32,urban,2024-01-08,Rent/Mortgage,1695.53,debit,Credit Card,Mortgage Company
+1,32,urban,2024-01-09,Entertainment,54.91,debit,Credit Card,Netflix
+1,32,urban,2024-01-09,Restaurants,198.82,debit,Credit Card,Starbucks
+1,32,urban,2024-01-09,Travel,575.15,debit,Credit Card,Uber
+1,32,urban,2024-01-10,Shopping,310.34,debit,Credit Card,Target
+1,32,urban,2024-01-10,Bills,227.39,debit,Credit Card,Comcast
+1,32,urban,2024-01-10,Restaurants,125.88,debit,Credit Card,Subway
+1,32,urban,2024-01-10,Healthcare,151.04,debit,Credit Card,Urgent Care
+1,32,urban,2024-01-11,Shopping,99.04,debit,Credit Card,Best Buy
+1,32,urban,2024-01-11,Entertainment,140.31,debit,Credit Card,Spotify
+1,32,urban,2024-01-11,Bills,314.03,debit,Credit Card,Comcast
+1,32,urban,2024-01-11,Restaurants,194.99,debit,Credit Card,Starbucks
+1,32,urban,2024-01-11,Travel,919.43,debit,Credit Card,Delta Airlines
+1,32,urban,2024-01-13,Restaurants,129.59,debit,Credit Card,Chipotle
+1,32,urban,2024-01-13,Healthcare,261.22,debit,Credit Card,Walgreens
+1,32,urban,2024-01-14,Shopping,74.91,debit,Credit Card,Target
+1,32,urban,2024-01-14,Entertainment,171.85,debit,Credit Card,Disney+
+1,32,urban,2024-01-14,Restaurants,79.0,debit,Credit Card,Chipotle
+1,32,urban,2024-01-14,Healthcare,357.76,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-01-16,Bills,457.15,debit,Credit Card,Eversource
+1,32,urban,2024-01-16,Restaurants,150.6,debit,Credit Card,Chipotle
+1,32,urban,2024-01-16,Travel,127.32,debit,Credit Card,Lyft
+1,32,urban,2024-01-16,Healthcare,52.82,debit,Credit Card,Walgreens
+1,32,urban,2024-01-19,Shopping,132.99,debit,Credit Card,Walmart
+1,32,urban,2024-01-19,Restaurants,73.97,debit,Credit Card,Starbucks
+1,32,urban,2024-01-19,Travel,887.51,debit,Credit Card,Uber
+1,32,urban,2024-01-19,Healthcare,120.89,debit,Credit Card,Urgent Care
+1,32,urban,2024-01-23,Shopping,61.32,debit,Credit Card,Walmart
+1,32,urban,2024-01-23,Entertainment,37.87,debit,Credit Card,Netflix
+1,32,urban,2024-01-23,Bills,481.79,debit,Credit Card,Eversource
+1,32,urban,2024-01-23,Restaurants,191.84,debit,Credit Card,Subway
+1,32,urban,2024-01-23,Travel,548.58,debit,Credit Card,Delta Airlines
+1,32,urban,2024-01-23,Healthcare,60.25,debit,Credit Card,Urgent Care
+1,32,urban,2024-01-27,Shopping,471.25,debit,Credit Card,Amazon
+1,32,urban,2024-01-27,Entertainment,171.38,debit,Credit Card,Spotify
+1,32,urban,2024-01-27,Restaurants,170.2,debit,Credit Card,McDonald's
+1,32,urban,2024-02-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-02-08,Shopping,230.59,debit,Credit Card,Best Buy
+1,32,urban,2024-02-08,Bills,458.41,debit,Credit Card,National Grid
+1,32,urban,2024-02-08,Healthcare,73.2,debit,Credit Card,Urgent Care
+1,32,urban,2024-02-09,Shopping,346.02,debit,Credit Card,Best Buy
+1,32,urban,2024-02-09,Bills,287.88,debit,Credit Card,Verizon
+1,32,urban,2024-02-09,Restaurants,150.18,debit,Credit Card,McDonald's
+1,32,urban,2024-02-09,Travel,905.41,debit,Credit Card,Delta Airlines
+1,32,urban,2024-02-09,Healthcare,344.04,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-02-11,Restaurants,155.62,debit,Credit Card,McDonald's
+1,32,urban,2024-02-11,Healthcare,80.0,debit,Credit Card,Health Insurance
+1,32,urban,2024-02-11,Rent/Mortgage,1918.46,debit,Credit Card,Mortgage Company
+1,32,urban,2024-02-12,Entertainment,162.69,debit,Credit Card,AMC Theatres
+1,32,urban,2024-02-12,Restaurants,114.27,debit,Credit Card,McDonald's
+1,32,urban,2024-02-12,Healthcare,345.23,debit,Credit Card,Health Insurance
+1,32,urban,2024-02-14,Entertainment,157.14,debit,Credit Card,Spotify
+1,32,urban,2024-02-14,Bills,326.06,debit,Credit Card,Eversource
+1,32,urban,2024-02-14,Healthcare,300.57,debit,Credit Card,Walgreens
+1,32,urban,2024-02-16,Shopping,118.19,debit,Credit Card,Amazon
+1,32,urban,2024-02-16,Entertainment,49.45,debit,Credit Card,Netflix
+1,32,urban,2024-02-16,Bills,327.99,debit,Credit Card,National Grid
+1,32,urban,2024-02-16,Restaurants,108.94,debit,Credit Card,Starbucks
+1,32,urban,2024-02-16,Travel,677.94,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-02-19,Restaurants,174.42,debit,Credit Card,Starbucks
+1,32,urban,2024-02-19,Travel,555.77,debit,Credit Card,Delta Airlines
+1,32,urban,2024-02-19,Healthcare,198.59,debit,Credit Card,Health Insurance
+1,32,urban,2024-02-23,Bills,242.24,debit,Credit Card,National Grid
+1,32,urban,2024-02-23,Restaurants,117.58,debit,Credit Card,Starbucks
+1,32,urban,2024-02-23,Travel,565.55,debit,Credit Card,Delta Airlines
+1,32,urban,2024-02-23,Healthcare,136.46,debit,Credit Card,Urgent Care
+1,32,urban,2024-02-24,Shopping,153.3,debit,Credit Card,Walmart
+1,32,urban,2024-02-24,Bills,216.71,debit,Credit Card,Comcast
+1,32,urban,2024-02-24,Restaurants,90.77,debit,Credit Card,Subway
+1,32,urban,2024-02-24,Healthcare,109.53,debit,Credit Card,Urgent Care
+1,32,urban,2024-02-25,Entertainment,175.26,debit,Credit Card,Spotify
+1,32,urban,2024-02-25,Restaurants,138.59,debit,Credit Card,Starbucks
+1,32,urban,2024-02-25,Travel,961.01,debit,Credit Card,Lyft
+1,32,urban,2024-03-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-03-10,Shopping,261.31,debit,Credit Card,Amazon
+1,32,urban,2024-03-10,Bills,245.98,debit,Credit Card,National Grid
+1,32,urban,2024-03-10,Travel,626.33,debit,Credit Card,Lyft
+1,32,urban,2024-03-10,Healthcare,276.54,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-03-16,Shopping,327.1,debit,Credit Card,Target
+1,32,urban,2024-03-16,Entertainment,79.39,debit,Credit Card,Disney+
+1,32,urban,2024-03-16,Bills,445.51,debit,Credit Card,National Grid
+1,32,urban,2024-03-16,Restaurants,62.92,debit,Credit Card,Subway
+1,32,urban,2024-03-16,Travel,758.78,debit,Credit Card,Lyft
+1,32,urban,2024-03-19,Shopping,216.27,debit,Credit Card,Amazon
+1,32,urban,2024-03-19,Entertainment,114.23,debit,Credit Card,Disney+
+1,32,urban,2024-03-19,Bills,101.42,debit,Credit Card,Verizon
+1,32,urban,2024-03-19,Restaurants,95.65,debit,Credit Card,Chipotle
+1,32,urban,2024-03-19,Travel,404.4,debit,Credit Card,Lyft
+1,32,urban,2024-03-19,Healthcare,280.43,debit,Credit Card,Walgreens
+1,32,urban,2024-03-19,Rent/Mortgage,978.87,debit,Credit Card,Landlord Payment
+1,32,urban,2024-03-21,Entertainment,185.1,debit,Credit Card,Netflix
+1,32,urban,2024-03-21,Restaurants,97.43,debit,Credit Card,Subway
+1,32,urban,2024-03-21,Travel,762.82,debit,Credit Card,Delta Airlines
+1,32,urban,2024-03-25,Shopping,206.75,debit,Credit Card,Amazon
+1,32,urban,2024-03-25,Bills,462.39,debit,Credit Card,Comcast
+1,32,urban,2024-03-25,Restaurants,137.1,debit,Credit Card,Chipotle
+1,32,urban,2024-04-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-04-11,Shopping,418.17,debit,Credit Card,Best Buy
+1,32,urban,2024-04-11,Entertainment,153.64,debit,Credit Card,Disney+
+1,32,urban,2024-04-11,Bills,401.1,debit,Credit Card,National Grid
+1,32,urban,2024-04-11,Travel,351.42,debit,Credit Card,Delta Airlines
+1,32,urban,2024-04-11,Healthcare,169.55,debit,Credit Card,Health Insurance
+1,32,urban,2024-04-15,Shopping,299.58,debit,Credit Card,Best Buy
+1,32,urban,2024-04-15,Bills,384.09,debit,Credit Card,Verizon
+1,32,urban,2024-04-15,Healthcare,491.75,debit,Credit Card,Health Insurance
+1,32,urban,2024-04-15,Rent/Mortgage,1815.01,debit,Credit Card,Landlord Payment
+1,32,urban,2024-04-16,Shopping,207.79,debit,Credit Card,Best Buy
+1,32,urban,2024-04-16,Restaurants,65.24,debit,Credit Card,McDonald's
+1,32,urban,2024-04-17,Shopping,272.65,debit,Credit Card,Amazon
+1,32,urban,2024-04-17,Entertainment,184.76,debit,Credit Card,Netflix
+1,32,urban,2024-04-17,Bills,149.13,debit,Credit Card,National Grid
+1,32,urban,2024-04-17,Restaurants,50.35,debit,Credit Card,Starbucks
+1,32,urban,2024-04-17,Travel,439.1,debit,Credit Card,Uber
+1,32,urban,2024-04-17,Healthcare,335.95,debit,Credit Card,Health Insurance
+1,32,urban,2024-04-26,Shopping,78.0,debit,Credit Card,Amazon
+1,32,urban,2024-04-26,Bills,169.28,debit,Credit Card,Eversource
+1,32,urban,2024-04-26,Restaurants,214.54,debit,Credit Card,Starbucks
+1,32,urban,2024-04-26,Travel,408.57,debit,Credit Card,Delta Airlines
+1,32,urban,2024-04-26,Healthcare,78.46,debit,Credit Card,Urgent Care
+1,32,urban,2024-04-27,Shopping,425.05,debit,Credit Card,Walmart
+1,32,urban,2024-04-27,Bills,484.71,debit,Credit Card,Eversource
+1,32,urban,2024-04-27,Restaurants,88.34,debit,Credit Card,Chipotle
+1,32,urban,2024-04-27,Travel,403.82,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-04-27,Healthcare,376.46,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-05-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-05-07,Entertainment,179.68,debit,Credit Card,Spotify
+1,32,urban,2024-05-07,Bills,273.37,debit,Credit Card,National Grid
+1,32,urban,2024-05-07,Travel,796.24,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-05-07,Healthcare,68.63,debit,Credit Card,Health Insurance
+1,32,urban,2024-05-07,Rent/Mortgage,1258.5,debit,Credit Card,Mortgage Company
+1,32,urban,2024-05-08,Travel,179.67,debit,Credit Card,Lyft
+1,32,urban,2024-05-08,Healthcare,314.06,debit,Credit Card,Urgent Care
+1,32,urban,2024-05-10,Entertainment,89.79,debit,Credit Card,AMC Theatres
+1,32,urban,2024-05-10,Bills,437.51,debit,Credit Card,Verizon
+1,32,urban,2024-05-10,Restaurants,233.27,debit,Credit Card,Subway
+1,32,urban,2024-05-10,Travel,381.16,debit,Credit Card,Lyft
+1,32,urban,2024-05-10,Healthcare,122.59,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-05-12,Bills,107.63,debit,Credit Card,Comcast
+1,32,urban,2024-05-12,Restaurants,234.27,debit,Credit Card,Starbucks
+1,32,urban,2024-05-12,Travel,625.43,debit,Credit Card,Lyft
+1,32,urban,2024-05-14,Shopping,56.03,debit,Credit Card,Amazon
+1,32,urban,2024-05-14,Bills,316.48,debit,Credit Card,National Grid
+1,32,urban,2024-05-14,Travel,459.52,debit,Credit Card,Lyft
+1,32,urban,2024-05-14,Healthcare,122.95,debit,Credit Card,Health Insurance
+1,32,urban,2024-05-15,Bills,383.8,debit,Credit Card,Verizon
+1,32,urban,2024-05-15,Healthcare,449.6,debit,Credit Card,Walgreens
+1,32,urban,2024-05-16,Shopping,488.6,debit,Credit Card,Target
+1,32,urban,2024-05-16,Restaurants,79.11,debit,Credit Card,McDonald's
+1,32,urban,2024-05-16,Travel,926.94,debit,Credit Card,Uber
+1,32,urban,2024-05-19,Entertainment,148.45,debit,Credit Card,Disney+
+1,32,urban,2024-05-19,Restaurants,176.89,debit,Credit Card,Chipotle
+1,32,urban,2024-05-19,Travel,834.61,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-05-19,Healthcare,324.7,debit,Credit Card,Health Insurance
+1,32,urban,2024-06-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-06-10,Shopping,318.75,debit,Credit Card,Target
+1,32,urban,2024-06-10,Entertainment,194.09,debit,Credit Card,AMC Theatres
+1,32,urban,2024-06-10,Travel,278.52,debit,Credit Card,Delta Airlines
+1,32,urban,2024-06-10,Healthcare,377.52,debit,Credit Card,Urgent Care
+1,32,urban,2024-06-10,Rent/Mortgage,2185.09,debit,Credit Card,Landlord Payment
+1,32,urban,2024-06-13,Shopping,304.84,debit,Credit Card,Walmart
+1,32,urban,2024-06-13,Entertainment,59.94,debit,Credit Card,Spotify
+1,32,urban,2024-06-14,Shopping,82.06,debit,Credit Card,Walmart
+1,32,urban,2024-06-14,Entertainment,32.4,debit,Credit Card,AMC Theatres
+1,32,urban,2024-06-14,Bills,184.02,debit,Credit Card,National Grid
+1,32,urban,2024-06-14,Healthcare,178.29,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-06-16,Entertainment,136.49,debit,Credit Card,Spotify
+1,32,urban,2024-06-16,Bills,304.92,debit,Credit Card,Comcast
+1,32,urban,2024-06-16,Restaurants,116.0,debit,Credit Card,McDonald's
+1,32,urban,2024-06-16,Healthcare,458.62,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-06-18,Shopping,269.7,debit,Credit Card,Walmart
+1,32,urban,2024-06-18,Entertainment,58.26,debit,Credit Card,Spotify
+1,32,urban,2024-06-18,Bills,348.01,debit,Credit Card,Verizon
+1,32,urban,2024-06-18,Restaurants,158.84,debit,Credit Card,Chipotle
+1,32,urban,2024-06-18,Healthcare,482.24,debit,Credit Card,Health Insurance
+1,32,urban,2024-06-19,Entertainment,165.15,debit,Credit Card,AMC Theatres
+1,32,urban,2024-06-19,Healthcare,238.93,debit,Credit Card,Walgreens
+1,32,urban,2024-06-20,Shopping,471.92,debit,Credit Card,Walmart
+1,32,urban,2024-06-20,Entertainment,167.21,debit,Credit Card,Netflix
+1,32,urban,2024-06-20,Travel,191.9,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-06-20,Healthcare,177.98,debit,Credit Card,Walgreens
+1,32,urban,2024-06-26,Entertainment,163.42,debit,Credit Card,Spotify
+1,32,urban,2024-06-26,Bills,183.21,debit,Credit Card,National Grid
+1,32,urban,2024-06-26,Travel,217.56,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-07-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-07-07,Travel,636.14,debit,Credit Card,Uber
+1,32,urban,2024-07-07,Healthcare,326.87,debit,Credit Card,Health Insurance
+1,32,urban,2024-07-11,Shopping,425.27,debit,Credit Card,Amazon
+1,32,urban,2024-07-11,Entertainment,138.43,debit,Credit Card,Netflix
+1,32,urban,2024-07-11,Bills,110.89,debit,Credit Card,Comcast
+1,32,urban,2024-07-11,Restaurants,110.37,debit,Credit Card,McDonald's
+1,32,urban,2024-07-11,Healthcare,124.6,debit,Credit Card,Walgreens
+1,32,urban,2024-07-11,Rent/Mortgage,1612.29,debit,Credit Card,Landlord Payment
+1,32,urban,2024-07-15,Shopping,130.32,debit,Credit Card,Target
+1,32,urban,2024-07-15,Entertainment,185.88,debit,Credit Card,Netflix
+1,32,urban,2024-07-15,Bills,249.1,debit,Credit Card,Verizon
+1,32,urban,2024-07-15,Travel,534.53,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-07-15,Healthcare,319.84,debit,Credit Card,Urgent Care
+1,32,urban,2024-07-17,Shopping,298.97,debit,Credit Card,Target
+1,32,urban,2024-07-17,Entertainment,171.69,debit,Credit Card,Spotify
+1,32,urban,2024-07-17,Bills,268.41,debit,Credit Card,National Grid
+1,32,urban,2024-07-17,Travel,356.4,debit,Credit Card,Delta Airlines
+1,32,urban,2024-07-22,Shopping,316.51,debit,Credit Card,Walmart
+1,32,urban,2024-07-22,Entertainment,90.06,debit,Credit Card,Spotify
+1,32,urban,2024-07-22,Bills,112.13,debit,Credit Card,Eversource
+1,32,urban,2024-07-22,Travel,518.77,debit,Credit Card,Delta Airlines
+1,32,urban,2024-07-23,Shopping,210.46,debit,Credit Card,Amazon
+1,32,urban,2024-07-23,Entertainment,186.55,debit,Credit Card,Netflix
+1,32,urban,2024-07-23,Bills,116.46,debit,Credit Card,Verizon
+1,32,urban,2024-07-23,Travel,428.33,debit,Credit Card,Delta Airlines
+1,32,urban,2024-07-24,Shopping,263.41,debit,Credit Card,Target
+1,32,urban,2024-07-24,Entertainment,187.5,debit,Credit Card,AMC Theatres
+1,32,urban,2024-07-24,Bills,211.42,debit,Credit Card,National Grid
+1,32,urban,2024-07-24,Travel,390.91,debit,Credit Card,Delta Airlines
+1,32,urban,2024-07-24,Healthcare,73.34,debit,Credit Card,Urgent Care
+1,32,urban,2024-08-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-08-12,Entertainment,119.07,debit,Credit Card,Spotify
+1,32,urban,2024-08-12,Bills,342.98,debit,Credit Card,Eversource
+1,32,urban,2024-08-12,Restaurants,220.98,debit,Credit Card,Chipotle
+1,32,urban,2024-08-12,Healthcare,295.56,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-08-13,Shopping,371.74,debit,Credit Card,Walmart
+1,32,urban,2024-08-13,Bills,226.19,debit,Credit Card,Verizon
+1,32,urban,2024-08-13,Restaurants,98.09,debit,Credit Card,McDonald's
+1,32,urban,2024-08-13,Healthcare,258.35,debit,Credit Card,Walgreens
+1,32,urban,2024-08-13,Rent/Mortgage,2447.37,debit,Credit Card,Mortgage Company
+1,32,urban,2024-08-22,Shopping,397.3,debit,Credit Card,Amazon
+1,32,urban,2024-08-22,Travel,952.62,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-08-22,Healthcare,101.32,debit,Credit Card,Walgreens
+1,32,urban,2024-08-23,Entertainment,187.72,debit,Credit Card,Spotify
+1,32,urban,2024-08-23,Bills,336.33,debit,Credit Card,National Grid
+1,32,urban,2024-08-23,Travel,420.56,debit,Credit Card,Delta Airlines
+1,32,urban,2024-08-23,Healthcare,199.77,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-08-26,Shopping,315.89,debit,Credit Card,Amazon
+1,32,urban,2024-08-26,Bills,295.52,debit,Credit Card,Verizon
+1,32,urban,2024-08-26,Healthcare,328.41,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-09-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-09-08,Shopping,423.27,debit,Credit Card,Amazon
+1,32,urban,2024-09-08,Entertainment,108.3,debit,Credit Card,AMC Theatres
+1,32,urban,2024-09-08,Rent/Mortgage,2323.65,debit,Credit Card,Mortgage Company
+1,32,urban,2024-09-10,Entertainment,78.5,debit,Credit Card,AMC Theatres
+1,32,urban,2024-09-10,Healthcare,236.92,debit,Credit Card,Health Insurance
+1,32,urban,2024-09-13,Shopping,473.98,debit,Credit Card,Best Buy
+1,32,urban,2024-09-13,Entertainment,70.11,debit,Credit Card,Disney+
+1,32,urban,2024-09-13,Travel,999.74,debit,Credit Card,Lyft
+1,32,urban,2024-09-16,Shopping,156.8,debit,Credit Card,Best Buy
+1,32,urban,2024-09-16,Entertainment,66.46,debit,Credit Card,Spotify
+1,32,urban,2024-09-16,Bills,120.26,debit,Credit Card,Verizon
+1,32,urban,2024-09-16,Travel,161.4,debit,Credit Card,Lyft
+1,32,urban,2024-09-16,Healthcare,481.19,debit,Credit Card,Urgent Care
+1,32,urban,2024-09-17,Shopping,62.18,debit,Credit Card,Walmart
+1,32,urban,2024-09-17,Entertainment,64.31,debit,Credit Card,Disney+
+1,32,urban,2024-09-17,Bills,466.88,debit,Credit Card,National Grid
+1,32,urban,2024-09-17,Restaurants,57.31,debit,Credit Card,Starbucks
+1,32,urban,2024-09-17,Healthcare,495.75,debit,Credit Card,Walgreens
+1,32,urban,2024-09-19,Shopping,270.43,debit,Credit Card,Best Buy
+1,32,urban,2024-09-19,Bills,428.82,debit,Credit Card,Comcast
+1,32,urban,2024-09-19,Restaurants,50.84,debit,Credit Card,Chipotle
+1,32,urban,2024-09-19,Travel,819.56,debit,Credit Card,Lyft
+1,32,urban,2024-09-19,Healthcare,102.62,debit,Credit Card,Walgreens
+1,32,urban,2024-09-20,Entertainment,20.27,debit,Credit Card,AMC Theatres
+1,32,urban,2024-09-20,Bills,248.79,debit,Credit Card,Comcast
+1,32,urban,2024-09-20,Restaurants,136.67,debit,Credit Card,Subway
+1,32,urban,2024-09-20,Travel,751.57,debit,Credit Card,Lyft
+1,32,urban,2024-09-20,Healthcare,148.92,debit,Credit Card,Walgreens
+1,32,urban,2024-09-25,Shopping,498.62,debit,Credit Card,Walmart
+1,32,urban,2024-09-25,Entertainment,148.88,debit,Credit Card,Disney+
+1,32,urban,2024-09-25,Restaurants,138.73,debit,Credit Card,McDonald's
+1,32,urban,2024-09-25,Healthcare,379.87,debit,Credit Card,Urgent Care
+1,32,urban,2024-09-26,Entertainment,90.58,debit,Credit Card,Netflix
+1,32,urban,2024-09-26,Bills,196.45,debit,Credit Card,National Grid
+1,32,urban,2024-09-26,Restaurants,204.05,debit,Credit Card,Subway
+1,32,urban,2024-09-26,Travel,259.1,debit,Credit Card,Lyft
+1,32,urban,2024-10-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-10-06,Bills,385.61,debit,Credit Card,National Grid
+1,32,urban,2024-10-06,Travel,959.75,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-10-06,Rent/Mortgage,1199.39,debit,Credit Card,Landlord Payment
+1,32,urban,2024-10-14,Restaurants,234.5,debit,Credit Card,Starbucks
+1,32,urban,2024-10-14,Healthcare,245.93,debit,Credit Card,Urgent Care
+1,32,urban,2024-10-15,Shopping,470.04,debit,Credit Card,Amazon
+1,32,urban,2024-10-15,Bills,348.9,debit,Credit Card,Verizon
+1,32,urban,2024-10-15,Restaurants,122.88,debit,Credit Card,Chipotle
+1,32,urban,2024-10-15,Healthcare,459.97,debit,Credit Card,Walgreens
+1,32,urban,2024-10-16,Shopping,265.31,debit,Credit Card,Best Buy
+1,32,urban,2024-10-16,Bills,428.82,debit,Credit Card,Eversource
+1,32,urban,2024-10-16,Restaurants,116.76,debit,Credit Card,McDonald's
+1,32,urban,2024-10-16,Healthcare,108.99,debit,Credit Card,Walgreens
+1,32,urban,2024-10-18,Bills,401.08,debit,Credit Card,Comcast
+1,32,urban,2024-10-18,Restaurants,240.94,debit,Credit Card,Subway
+1,32,urban,2024-10-18,Healthcare,50.48,debit,Credit Card,Urgent Care
+1,32,urban,2024-10-23,Shopping,374.3,debit,Credit Card,Walmart
+1,32,urban,2024-10-23,Entertainment,130.16,debit,Credit Card,Spotify
+1,32,urban,2024-10-23,Healthcare,384.16,debit,Credit Card,Urgent Care
+1,32,urban,2024-11-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-11-15,Entertainment,168.68,debit,Credit Card,Disney+
+1,32,urban,2024-11-15,Restaurants,141.51,debit,Credit Card,Subway
+1,32,urban,2024-11-15,Travel,825.11,debit,Credit Card,Lyft
+1,32,urban,2024-11-15,Healthcare,71.49,debit,Credit Card,Health Insurance
+1,32,urban,2024-11-15,Rent/Mortgage,1234.9,debit,Credit Card,Landlord Payment
+1,32,urban,2024-11-21,Shopping,467.24,debit,Credit Card,Target
+1,32,urban,2024-11-21,Bills,192.25,debit,Credit Card,National Grid
+1,32,urban,2024-11-21,Restaurants,71.32,debit,Credit Card,McDonald's
+1,32,urban,2024-11-21,Healthcare,72.52,debit,Credit Card,Health Insurance
+1,32,urban,2024-11-22,Entertainment,199.46,debit,Credit Card,Disney+
+1,32,urban,2024-11-22,Restaurants,140.9,debit,Credit Card,Subway
+1,32,urban,2024-11-22,Travel,305.67,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-11-22,Healthcare,100.76,debit,Credit Card,CVS Pharmacy
+1,32,urban,2024-12-05,Salary,6089.64,credit,Savings,Employer Direct Deposit
+1,32,urban,2024-12-09,Entertainment,54.29,debit,Credit Card,Netflix
+1,32,urban,2024-12-09,Restaurants,182.07,debit,Credit Card,Subway
+1,32,urban,2024-12-09,Travel,691.3,debit,Credit Card,Lyft
+1,32,urban,2024-12-09,Healthcare,187.61,debit,Credit Card,Health Insurance
+1,32,urban,2024-12-12,Restaurants,100.09,debit,Credit Card,Starbucks
+1,32,urban,2024-12-12,Travel,966.49,debit,Credit Card,Hilton Hotels
+1,32,urban,2024-12-12,Healthcare,477.18,debit,Credit Card,Urgent Care
+1,32,urban,2024-12-12,Rent/Mortgage,1414.52,debit,Credit Card,Landlord Payment
+1,32,urban,2024-12-15,Shopping,54.16,debit,Credit Card,Target
+1,32,urban,2024-12-15,Entertainment,157.47,debit,Credit Card,Spotify
+1,32,urban,2024-12-15,Bills,258.6,debit,Credit Card,Eversource
+1,32,urban,2024-12-15,Restaurants,96.38,debit,Credit Card,Subway
+1,32,urban,2024-12-15,Healthcare,79.92,debit,Credit Card,Urgent Care
+1,32,urban,2024-12-16,Bills,305.29,debit,Credit Card,National Grid
+1,32,urban,2024-12-16,Restaurants,237.44,debit,Credit Card,Chipotle
+1,32,urban,2024-12-19,Healthcare,55.37,debit,Credit Card,Urgent Care
+1,32,urban,2024-12-20,Shopping,178.98,debit,Credit Card,Walmart
+1,32,urban,2024-12-20,Bills,452.23,debit,Credit Card,Eversource
+1,32,urban,2024-12-20,Healthcare,51.09,debit,Credit Card,Urgent Care
+1,32,urban,2024-12-23,Entertainment,105.02,debit,Credit Card,Netflix
+1,32,urban,2024-12-23,Bills,317.35,debit,Credit Card,Comcast
+1,32,urban,2024-12-23,Healthcare,149.96,debit,Credit Card,Urgent Care
+1,32,urban,2024-12-24,Shopping,268.29,debit,Credit Card,Walmart
+1,32,urban,2024-12-24,Entertainment,155.81,debit,Credit Card,Spotify
+1,32,urban,2024-12-24,Bills,110.23,debit,Credit Card,National Grid
+1,32,urban,2024-12-24,Travel,483.15,debit,Credit Card,Lyft
+1,32,urban,2024-12-24,Healthcare,102.22,debit,Credit Card,Urgent Care
+1,32,urban,2024-12-26,Shopping,158.53,debit,Credit Card,Target
+1,32,urban,2024-12-26,Bills,423.31,debit,Credit Card,Verizon
+1,32,urban,2024-12-26,Restaurants,111.23,debit,Credit Card,Subway
+1,32,urban,2024-12-27,Shopping,177.61,debit,Credit Card,Amazon
+1,32,urban,2024-12-27,Restaurants,220.25,debit,Credit Card,Chipotle
